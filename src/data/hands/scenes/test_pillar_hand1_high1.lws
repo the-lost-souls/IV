@@ -1,0 +1,221 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 600
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 900
+PreviewFrameStep 1
+FramesPerSecond 50.000000
+
+LoadObject data\hands\objects\pillar_hand1_high_lw5_5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5000 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand1_high_lw5_4.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5000 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  6
+  0
+  0 0 0 0 0
+  0
+  300 1 0 0 0
+  1
+  400 1 0 0 0
+  1
+  500 1 0 0 0
+  0
+  600 1 0 0 0
+  0
+  630 1 0 0 0
+EndBehavior 2
+MorphTarget 1
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand1_high_lw5_3.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5000 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  6
+  0
+  0 0 0 0 0
+  0
+  200 1 0 0 0
+  1
+  300 1 0 0 0
+  1
+  600 1 0 0 0
+  0
+  610 1 0 0 0
+  0
+  630 1 0 0 0
+EndBehavior 2
+MorphTarget 2
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand1_high_lw5_2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5000 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  6
+  0
+  0 0 0 0 0
+  0
+  100 1 0 0 0
+  1
+  200 1 0 0 0
+  1
+  610 1 0 0 0
+  0
+  620 1 0 0 0
+  0
+  630 1 0 0 0
+EndBehavior 2
+MorphTarget 3
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand1_high_lw5_1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  -0.5027037 0 1.623973 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.5027037 0 1.623973 0 0 0 1 1 1
+  80 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  4
+  0.05
+  0 0 0 0 0
+  1
+  100 1 0 0 0
+  1
+  620 1 0 0 0
+  0.05
+  630 1 0 0 0
+EndBehavior 2
+MorphTarget 4
+MorphSurfaces 0
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -52.89998 2 -17.3 93.4002 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+LockedChannels 48
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  28.40002 2 -33.90001 -73.7998 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+LockedChannels 48
+LightColor 38 149 168
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  4
+  -87.72142 0 -65.49791 56.8 1.499999 0 1 1 1
+  0 0 0 0 0
+  -44.17982 10.2 -60.63567 24.89998 12.5 0 1 1 1
+  300 0 0 0 0
+  -45.80666 -2.6 -49.78325 16.09997 -2.9 0 1 1 1
+  600 0 0 0 0
+  -53.94218 0 -41.80304 28.59999 3.099997 0 1 1 1
+  630 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 6.000000
+GridNumber 40
+GridSize 20.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

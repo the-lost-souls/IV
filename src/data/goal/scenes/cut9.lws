@@ -1,0 +1,231 @@
+LWSC
+1
+
+FirstFrame 0
+LastFrame 700
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 1200
+PreviewFrameStep 1
+FramesPerSecond 100.000000
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  11
+  0 600 -590 0 0 0 1 1 1
+  0 0 0 0 0
+  0 550 -1130 0 0 0 1 1 1
+  100 0 0 0 0
+  0 70 -2300 0 0 0 1 1 1
+  200 0 0 0 0
+  0 180 -3680 0 0 0 1 1 1
+  300 0 0 0 0
+  0 60 -5070 0 0 0 1 1 1
+  400 0 0 0 0
+  0 140 -5380 0 0 0 1 1 1
+  500 0 0 0 0
+  0 1280 -5420 0 0 0 1 1 1
+  600 0 0 0 0
+  0 2310 -5430 0 0 0 1 1 1
+  700 0 0 0 0
+  0 2520 -5550 0 0 0 1 1 1
+  800 0 0 0 0
+  0 2480 -5880 0 0 0 1 1 1
+  900 0 0 0 0
+  0 2480 -6540 0 0 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject CameraNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -507.7748 3200.85 -10676.87 24.9 27.2 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\widescreen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.01 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject data\goal\objects\foto.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.013 0 0 0 1.02 1.02 1.02
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject data\garage\objects\Fadewhite_lw5.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.011 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ObjDissolve (envelope)
+  1
+  2
+  0
+  0 0 0 0 0
+  1
+  100 1 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\goal\objects\victory.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.012 0 0 0 1.02 1.02 1.02
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ObjDissolve (envelope)
+  1
+  3
+  1
+  0 0 0 0 0
+  1
+  350 1 0 0 0
+  0
+  500 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\garage\objects\fadeblack_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.0101 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ObjDissolve (envelope)
+  1
+  3
+  1
+  0 0 0 0 0
+  1
+  980 1 0 0 0
+  0
+  1080 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -2 2 -2 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 0.645000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -12.5 680.4937 -4963.797 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 0.725000
+LightType 1
+LightFalloff 1
+LightRange 500.000000
+ShadowType 1
+
+AddLight
+LightName OutsideGarage
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -30.60653 2567.994 -6242.04 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 400.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ParentObject 2
+ZoomFactor 1.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint -34.764881 2427.402832 -11154.416992
+ViewDirection -6.853908 -0.317650 0.000000
+ViewZoomFactor 1.777779
+GridNumber 100
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

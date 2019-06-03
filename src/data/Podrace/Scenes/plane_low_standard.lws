@@ -1,0 +1,300 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 600
+PreviewFrameStep 1
+FramesPerSecond 100.000000
+
+LoadObject data\Podrace\Objects\plane\Hatch_low_left_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.25 -1.85 0 0 0 2.000003 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PivotPoint -1.25 -1.85 0
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Hatch_low_right_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.25 -1.875 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PivotPoint 1.25 -1.875 0
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\plane_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Prop_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0.15 0 0 0 360 1 1 1
+  0 0 0 0 0
+  0 0.15 0 0 0 0 1 1 1
+  5 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+PivotPoint 0 0.15 0
+ParentObject 3
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Rocket_back_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -3.725001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 6
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\rocket_base_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1.725 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Rocket_front_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.824999 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 6
+ShadowOptions 7
+
+AddNullObject Plane_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject FLR2 12.0000 60.0000 04.0000 data|podrace_bigwall|maps|streak.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.15 -2.799999 -3.024996 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ShadowOptions 7
+
+AddNullObject FLR2 12.0000 60.0000 04.0000 data|podrace_bigwall|maps|streak.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.200004 -2.799999 -3.124999 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\scarf_normal_low_mt1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_normal_low_mt2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  7
+  0.212
+  0 0 0 0 0
+  0.24
+  10 0 0 0 0
+  0.9480004
+  31 0 0 0 0
+  0.12
+  46 0 0 0 0
+  0.9320003
+  59 0 0 0 0
+  0.504
+  77 0 0 0 0
+  0.924
+  105 0 0 0 0
+EndBehavior 2
+MorphTarget 11
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_normal_low.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+Metamorph (envelope)
+  1
+  10
+  0
+  0 0 0 0 0
+  0.7680002
+  6 0 0 0 0
+  0.02400001
+  10 0 0 0 0
+  0.176
+  17 0 0 0 0
+  0.468
+  27 0 0 0 0
+  0.7800002
+  34 0 0 0 0
+  0.06000002
+  41 0 0 0 0
+  0.7680002
+  48 0 0 0 0
+  0.104
+  59 0 0 0 0
+  0.608
+  63 0 0 0 0
+EndBehavior 2
+MorphTarget 12
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\pilot_normal_low.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\pilot_body_low.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -2 2 -2 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  3
+  -4.38812 4.665005 3.189552 -224.2 28.80001 0.5 1 1 1
+  0 0 0 0 0
+  -4.38812 4.665005 3.189552 -224.2 28.80001 0.5 1 1 1
+  200 0 0 0 0
+  -4.38812 4.665005 3.189552 -224.2 28.80001 0.5 1 1 1
+  400 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 6.000000
+GridNumber 100
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

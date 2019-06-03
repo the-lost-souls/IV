@@ -1,0 +1,3706 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 700
+PreviewFrameStep 1
+FramesPerSecond 100.000000
+
+AddNullObject CameraNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 62.3 15.09999 0 1 1 1
+  0 0 0 0 0
+  0 0 0 77.5999 44.89998 0 1 1 1
+  100 0 0 0 0
+  0 0 0 63.89988 49.69997 0 1 1 1
+  200 0 0 0 0
+  0 0 0 58.59988 -18.3 0 1 1 1
+  300 0 0 0 0
+  0 0 0 53.3 21.9 0 1 1 1
+  400 0 0 0 0
+  0 0 0 53.3 21.9 0 1 1 1
+  600 0 0 0 0
+EndBehavior 2
+ParentObject 104
+ShadowOptions 7
+
+LoadObject data\canyon\objects\Canyon_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  126 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject NullObject
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  143.137 650 1550 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  143.2658 640.3322 1507.473 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  144.0726 631.0417 1464.927 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  145.611 622.1367 1422.264 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  147.9321 613.6737 1379.606 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  151.1011 605.6674 1336.857 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  155.1717 598.1794 1294.154 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  160.2219 591.2316 1251.4 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  166.3083 584.889 1208.74 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  173.5193 579.1855 1166.105 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  181.9095 574.1896 1123.66 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  191.5762 569.9438 1081.35 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  202.5695 566.5165 1039.351 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  215.0109 563.9858 997.6862 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  230.3552 563.4853 956.9165 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  248.6624 565.1758 917.4486 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  269.1536 568.4958 879.1123 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  291.115 572.9249 841.7319 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  313.9851 577.9979 804.9698 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  337.2631 583.2766 768.4539 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  360.3791 588.2971 731.8987 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  382.8597 592.5756 694.74 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  403.8741 595.4766 656.7354 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  422.5484 596.2192 617.2627 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  437.3107 593.7987 576.5276 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  446.8268 586.9905 534.5359 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  451.8969 575.0396 493.0203 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  453.3312 559.1382 452.5369 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  451.864 540.6986 413.0464 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  448.2386 521.0354 374.3411 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  443.1127 501.2008 335.8606 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  437.0828 482.2176 297.0703 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  430.7419 465.1828 257.4875 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  424.7133 451.3106 216.6184 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  419.7306 442.0632 174.385 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  416.5453 439.0452 131.1931 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  415.1822 444.8518 88.04663 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  414.9525 457.2372 46.38208 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  415.2581 473.595 5.823 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  415.6594 491.9418 -33.63501 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  415.8109 511.1306 -72.81909 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  415.3815 530.0483 -112.1419 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  414.0066 547.5522 -151.9946 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  411.2193 562.3447 -192.9583 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  406.4604 572.4598 -234.9209 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  399.0651 575.507 -277.6829 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  388.7173 569.0908 -319.3767 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  374.9634 550.8383 -355.6404 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  358.3042 522.8979 -385.0137 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  341.0907 491.5155 -409.1733 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  323.2418 457.5631 -430.8394 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  305.579 423.094 -450.2759 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  287.6729 387.5644 -468.7146 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  269.9378 351.9758 -486.2061 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  252.113 315.937 -503.3667 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  234.3838 279.9221 -520.3049 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  216.6864 243.889 -537.3447 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  199.0439 207.9666 -554.7305 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  181.4869 172.3039 -572.73 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  164.0544 137.0815 -591.6721 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  146.8057 102.5517 -611.9905 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  129.8542 69.13367 -634.2942 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  113.4525 37.63455 -659.4658 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  97.97147 9.35651 -689.27 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  85.19257 -11.32529 -724.7151 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  76.73599 -20.61499 -766.1331 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  71.25328 -22.86658 -809.2419 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  68.42186 -19.20663 -852.4348 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  67.88467 -10.54373 -895.2122 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  69.24234 2.04541 -936.7534 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  72.13847 17.83713 -977.3552 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  76.24304 36.00858 -1016.629 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  81.36003 56.23541 -1055.059 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  87.2514 77.91925 -1092.343 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  93.80086 100.8756 -1128.802 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  100.8851 124.8407 -1164.481 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  108.4323 149.6964 -1199.561 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  116.3268 175.1612 -1233.933 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  124.5742 201.3288 -1267.953 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  133.0423 227.8435 -1301.349 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  141.7776 254.9023 -1334.531 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+LoadObject data\city1\objects\widescreen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 1
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\pod1\Pod1_body_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 88
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ParentObject 88
+ShadowOptions 7
+
+AddNullObject Pod1_low_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  424.5 560.25 -64.75 -9.055017 24.95642 0 1 1 1
+  0 0 0 0 0
+  427.5625 440.7969 151.7813 0.7216642 4.425766 0 1 1 1
+  100 0 0 0 0
+  420.25 532 388.25 -6.257045 -0.6784015 0 1 1 1
+  200 0 0 0 0
+  379.651 594.2253 582.5182 -13.7761 -2.943763 0 1 1 1
+  300 0 0 0 0
+  333 565 776.75 -189.365 -5.106419 0 1 1 1
+  400 0 0 0 0
+EndBehavior 2
+PathAlignment 1
+LookAheadFrames 3
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\pod2\pod2_body_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 91
+ShadowOptions 7
+
+AddNullObject pod2_cockpit_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ParentObject 91
+ShadowOptions 7
+
+AddNullObject pod2_low_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  166.25 248.75 -1316.25 0 0 0 1 1 1
+  0 0 0 0 0
+  106.9002 75.48047 -1054.955 -12.59977 28.94349 0 1 1 1
+  100 0 0 0 0
+  65 -20 -786.25 0 0 0 1 1 1
+  200 0 0 0 0
+  126.9356 71.75781 -646.6966 41.38078 -50.1435 0 1 1 1
+  250 0 0 0 0
+  405 583.75 -355 0 0 0 1 1 1
+  400 0 0 0 0
+  425.0093 489.0932 -46.29816 -3.3976 17.70488 0 1 1 1
+  500 0 0 0 0
+  405.3305 455 298.2206 -165.8509 19.03202 0 1 1 1
+  600 0 0 0 0
+EndBehavior 2
+PathAlignment 1
+LookAheadFrames 3
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 93
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  96.25 110 -1122.5 -15.3 32.3 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 95
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  68.75 -10 -850 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 97
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  112.5 48.75 -661.25 38.2 -23.90002 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 99
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  270 351.25 -492.5 50.40002 -61.99998 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 101
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  400 586.25 -278.75 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 103
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  415 467.5 47.5 0 21.6 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ShadowOptions 7
+
+AddNullObject Camerapod1_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  12
+  407.212 474.9749 14.48131 0 0 0 1 1 1
+  0 0 0 0 0
+  440.7053 469.5748 247.1528 0 0 0 1 1 1
+  100 0 0 0 0
+  447.1898 575.3997 464.9413 0 0 0 1 1 1
+  200 0 0 0 0
+  373.6056 595.6003 645.5993 0 0 0 1 1 1
+  300 0 0 0 0
+  331.17 584.8066 731.9202 -2.992535 3.619098 0 1 1 1
+  350 0 0 0 0
+  328.6043 583.5904 737.1685 -3.194703 3.863595 0 1 1 1
+  353 0 0 0 0
+  326.8849 587.9321 740.6459 0 0 0 1 1 1
+  355 0 0 0 0
+  317.4203 634.9265 758.3749 -8.799997 -26.20002 0 1 1 1
+  366 0 0 0 0
+  305.5645 675.913 779.5457 -22.9 -43.6 0 1 1 1
+  380 0 0 0 0
+  291.6447 705.67 818.5724 -33.19999 -47.29999 0 1 1 1
+  400 0 0 0 0
+  257.4944 712.9327 871.5496 -31.99999 -40.8 0 1 1 1
+  450 0 0 0 0
+  257.4944 707.7576 920.5746 -20.6 -29.2 0 1 1 1
+  500 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject FLR1 07.0000 00000000 data|podrace_bigwall|maps|flare19_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.5 0.235 -1.8 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 104
+ShadowOptions 7
+
+AddNullObject FLR1 07.0000 00000000 data|podrace_bigwall|maps|flare19_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.5 0.235 -1.8 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 104
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\camerapod1_body.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 110
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\Camerapod1_camera.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 109
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\Camerapod1_ring.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -0.6 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 107
+ShadowOptions 7
+
+AddNullObject Camerapod1_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  195.9821 248 -1348.975 0 0 0 1 1 1
+  0 0 0 0 0
+  76 36 -745 0 0 0 1 1 1
+  200 0 0 0 0
+  421 611 -270 0 0 0 1 1 1
+  400 0 0 0 0
+  422 514 154 0 0 0 1 1 1
+  600 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject FLR1 07.0000 00000000 data|podrace_bigwall|maps|flare19_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.5 0.235 -1.8 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 110
+ShadowOptions 7
+
+AddNullObject FLR1 07.0000 00000000 data|podrace_bigwall|maps|flare19_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.5 0.235 -1.8 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 110
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Hatch_low_left_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.25 -1.85 0 0 0 2.000003 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PivotPoint -1.25 -1.85 0
+ParentObject 120
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Hatch_low_right_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.25 -1.875 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PivotPoint 1.25 -1.875 0
+ParentObject 120
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Plane_high_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 120
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Prop_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0.15 0 0 0 360 1 1 1
+  0 0 0 0 0
+  0 0.15 0 0 0 0 1 1 1
+  5 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+PivotPoint 0 0.15 0
+ParentObject 120
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Rocket_back_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -3.725001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 118
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\rocket_base_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1.725 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 120
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Rocket_front_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.824999 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 118
+ShadowOptions 7
+
+AddNullObject Plane_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  417.75 472.25 14.75 -17.0734 34.1882 0 1 1 1
+  0 0 0 0 0
+  448.7273 461.3438 247.6097 4.9035 -13.4504 0 1 1 1
+  100 0 0 0 0
+  455.3636 566.5 468.1506 -10.1845 -18.281 40 1 1 1
+  200 0 0 0 0
+  383.9063 599.7318 650.5016 -24.1378 -0.4008 80 1 1 1
+  300 0 0 0 0
+  298.25 567.25 825.5 -21.9635 8.1938 -50 1 1 1
+  400 0 0 0 0
+  229.9703 542.9931 1026.45 -17.74817 -1.69883 -6.666667 1 1 1
+  500 0 0 0 0
+  164.85 576.25 1240 -191.8427 4.8256 0 1 1 1
+  600 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+AddNullObject FLR2 07.0000 20.0000 05.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.25 -2.799999 -2.874998 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 120
+ShadowOptions 7
+
+AddNullObject FLR2 07.0000 20.0000 05.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.250004 -2.799999 -2.799997 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 120
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\scarf_normal_front.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 115
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\pilot_normal_low.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 115
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Pilot_body_high.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 115
+ShadowOptions 7
+
+LoadObject data\startpit\objects\Camerapod_info.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  23
+  1.320908 0 1.152026 0 0 0 1 1 1
+  0 0 0 0 0
+  1.320908 0 1.152026 0 0 0 1 1 1
+  350 0 0 0 0
+  1.320908 0.65 1.152026 0 0 0 1 1 1
+  366 0 0 0 0
+  1.320908 -0.23 1.152026 0 0 0 1 1 1
+  379 0 0 0 0
+  1.320908 0.84 1.152026 0 0 0 1 1 1
+  383 0 0 0 0
+  1.320908 -0.01 1.152026 0 0 0 1 1 1
+  396 0 0 0 0
+  1.320908 0.77 1.152026 0 0 0 1 1 1
+  407 0 0 0 0
+  1.320908 0 1.152026 0 0 0 1 1 1
+  410 0 0 0 0
+  1.320908 -0.29 1.152026 0 0 0 1 1 1
+  417 0 0 0 0
+  1.320908 0.45 1.152026 0 0 0 1 1 1
+  424 0 0 0 0
+  1.320908 -0.12 1.152026 0 0 0 1 1 1
+  434 0 0 0 0
+  1.320908 0.3 1.152026 0 0 0 1 1 1
+  449 0 0 0 0
+  1.320908 0.09999999 1.152026 0 0 0 1 1 1
+  452 0 0 0 0
+  1.320908 -0.15 1.152026 0 0 0 1 1 1
+  456 0 0 0 0
+  1.320908 -0.27 1.152026 0 0 0 1 1 1
+  471 0 0 0 0
+  1.320908 0.3 1.152026 0 0 0 1 1 1
+  476 0 0 0 0
+  1.320908 -0.13 1.152026 0 0 0 1 1 1
+  488 0 0 0 0
+  1.320908 -0.24 1.152026 0 0 0 1 1 1
+  501 0 0 0 0
+  1.320908 0.2 1.152026 0 0 0 1 1 1
+  515 0 0 0 0
+  1.320908 -0.31 1.152026 0 0 0 1 1 1
+  524 0 0 0 0
+  1.320908 0.35 1.152026 0 0 0 1 1 1
+  526 0 0 0 0
+  1.320908 0.17 1.152026 0 0 0 1 1 1
+  557 0 0 0 0
+  1.320908 0 1.152026 0 0 0 1 1 1
+  600 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  4
+  0.9760001
+  0 0 0 0 0
+  0.89
+  17 0 0 0 0
+  0.25
+  23 0 0 0 0
+  0.35
+  30 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\startpit\objects\camerapod_noise.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  6
+  0.1106742 0 1.078105 0 0 0 1 1 1
+  0 0 0 0 0
+  0.04 0 1.02 0 0 0 1 1 1
+  1 0 0 0 0
+  -0.01 0 1.02 0 0 0 1 1 1
+  2 0 0 0 0
+  0.04 0 1.02 0 0 0 1 1 1
+  4 0 0 0 0
+  -0.08 0 1.02 0 0 0 1 1 1
+  5 0 0 0 0
+  0.03 0 1.02 0 0 0 1 1 1
+  6 0 0 0 0
+EndBehavior 2
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  340
+  0.5
+  0 0 0 0 0
+  0.514
+  2 0 0 0 0
+  0.5132
+  4 0 0 0 0
+  0.538
+  5 0 0 0 0
+  0.526
+  7 0 0 0 0
+  0.5232
+  9 0 0 0 0
+  0.5276
+  12 0 0 0 0
+  0.5392
+  13 0 0 0 0
+  0.5
+  14 0 0 0 0
+  0.514
+  16 0 0 0 0
+  0.5132
+  18 0 0 0 0
+  0.538
+  19 0 0 0 0
+  0.526
+  21 0 0 0 0
+  0.5232
+  23 0 0 0 0
+  0.5276
+  26 0 0 0 0
+  0.5392
+  27 0 0 0 0
+  0.5
+  28 0 0 0 0
+  0.514
+  30 0 0 0 0
+  0.5132
+  32 0 0 0 0
+  0.538
+  33 0 0 0 0
+  0.526
+  35 0 0 0 0
+  0.5232
+  37 0 0 0 0
+  0.5276
+  40 0 0 0 0
+  0.5392
+  41 0 0 0 0
+  0.5
+  42 0 0 0 0
+  0.514
+  44 0 0 0 0
+  0.5132
+  46 0 0 0 0
+  0.538
+  47 0 0 0 0
+  0.526
+  49 0 0 0 0
+  0.5232
+  51 0 0 0 0
+  0.5276
+  54 0 0 0 0
+  0.5392
+  55 0 0 0 0
+  0.5
+  56 0 0 0 0
+  0.514
+  58 0 0 0 0
+  0.5132
+  60 0 0 0 0
+  0.538
+  61 0 0 0 0
+  0.526
+  63 0 0 0 0
+  0.5232
+  65 0 0 0 0
+  0.5276
+  68 0 0 0 0
+  0.5392
+  69 0 0 0 0
+  0.5
+  70 0 0 0 0
+  0.514
+  72 0 0 0 0
+  0.5132
+  74 0 0 0 0
+  0.538
+  75 0 0 0 0
+  0.526
+  77 0 0 0 0
+  0.5232
+  79 0 0 0 0
+  0.5276
+  82 0 0 0 0
+  0.5392
+  83 0 0 0 0
+  0.5
+  84 0 0 0 0
+  0.514
+  86 0 0 0 0
+  0.5132
+  88 0 0 0 0
+  0.538
+  89 0 0 0 0
+  0.526
+  91 0 0 0 0
+  0.5232
+  93 0 0 0 0
+  0.5276
+  96 0 0 0 0
+  0.5392
+  97 0 0 0 0
+  0.5
+  98 0 0 0 0
+  0.514
+  100 0 0 0 0
+  0.5132
+  102 0 0 0 0
+  0.538
+  103 0 0 0 0
+  0.526
+  105 0 0 0 0
+  0.5232
+  107 0 0 0 0
+  0.5276
+  110 0 0 0 0
+  0.5392
+  111 0 0 0 0
+  0.5
+  112 0 0 0 0
+  0.514
+  114 0 0 0 0
+  0.5132
+  116 0 0 0 0
+  0.538
+  117 0 0 0 0
+  0.526
+  119 0 0 0 0
+  0.5232
+  121 0 0 0 0
+  0.5276
+  124 0 0 0 0
+  0.5392
+  125 0 0 0 0
+  0.5
+  126 0 0 0 0
+  0.514
+  128 0 0 0 0
+  0.5132
+  130 0 0 0 0
+  0.538
+  131 0 0 0 0
+  0.526
+  133 0 0 0 0
+  0.5232
+  135 0 0 0 0
+  0.5276
+  138 0 0 0 0
+  0.5392
+  139 0 0 0 0
+  0.5
+  140 0 0 0 0
+  0.514
+  142 0 0 0 0
+  0.5132
+  144 0 0 0 0
+  0.538
+  145 0 0 0 0
+  0.526
+  147 0 0 0 0
+  0.5232
+  149 0 0 0 0
+  0.5276
+  152 0 0 0 0
+  0.5392
+  153 0 0 0 0
+  0.5
+  154 0 0 0 0
+  0.514
+  156 0 0 0 0
+  0.5132
+  158 0 0 0 0
+  0.538
+  159 0 0 0 0
+  0.526
+  161 0 0 0 0
+  0.5232
+  163 0 0 0 0
+  0.5276
+  166 0 0 0 0
+  0.5392
+  167 0 0 0 0
+  0.5
+  168 0 0 0 0
+  0.514
+  170 0 0 0 0
+  0.5132
+  172 0 0 0 0
+  0.538
+  173 0 0 0 0
+  0.526
+  175 0 0 0 0
+  0.5232
+  177 0 0 0 0
+  0.5276
+  180 0 0 0 0
+  0.5392
+  181 0 0 0 0
+  0.5
+  182 0 0 0 0
+  0.514
+  184 0 0 0 0
+  0.5132
+  186 0 0 0 0
+  0.538
+  187 0 0 0 0
+  0.526
+  189 0 0 0 0
+  0.5232
+  191 0 0 0 0
+  0.5276
+  194 0 0 0 0
+  0.5392
+  195 0 0 0 0
+  0.5
+  196 0 0 0 0
+  0.514
+  198 0 0 0 0
+  0.5132
+  200 0 0 0 0
+  0.538
+  201 0 0 0 0
+  0.526
+  203 0 0 0 0
+  0.5232
+  205 0 0 0 0
+  0.5276
+  208 0 0 0 0
+  0.5392
+  209 0 0 0 0
+  0.5
+  210 0 0 0 0
+  0.514
+  212 0 0 0 0
+  0.5132
+  214 0 0 0 0
+  0.538
+  215 0 0 0 0
+  0.526
+  217 0 0 0 0
+  0.5232
+  219 0 0 0 0
+  0.5276
+  222 0 0 0 0
+  0.5392
+  223 0 0 0 0
+  0.5
+  224 0 0 0 0
+  0.514
+  226 0 0 0 0
+  0.5132
+  228 0 0 0 0
+  0.538
+  229 0 0 0 0
+  0.526
+  231 0 0 0 0
+  0.5232
+  233 0 0 0 0
+  0.5276
+  236 0 0 0 0
+  0.5392
+  237 0 0 0 0
+  0.5
+  238 0 0 0 0
+  0.514
+  240 0 0 0 0
+  0.5132
+  242 0 0 0 0
+  0.538
+  243 0 0 0 0
+  0.526
+  245 0 0 0 0
+  0.5232
+  247 0 0 0 0
+  0.5276
+  250 0 0 0 0
+  0.5392
+  251 0 0 0 0
+  0.5
+  252 0 0 0 0
+  0.514
+  254 0 0 0 0
+  0.5132
+  256 0 0 0 0
+  0.538
+  257 0 0 0 0
+  0.526
+  259 0 0 0 0
+  0.5232
+  261 0 0 0 0
+  0.5276
+  264 0 0 0 0
+  0.5392
+  265 0 0 0 0
+  0.5
+  266 0 0 0 0
+  0.514
+  268 0 0 0 0
+  0.5132
+  270 0 0 0 0
+  0.538
+  271 0 0 0 0
+  0.526
+  273 0 0 0 0
+  0.5232
+  275 0 0 0 0
+  0.5276
+  278 0 0 0 0
+  0.5392
+  279 0 0 0 0
+  0.5
+  280 0 0 0 0
+  0.514
+  282 0 0 0 0
+  0.5132
+  284 0 0 0 0
+  0.538
+  285 0 0 0 0
+  0.526
+  287 0 0 0 0
+  0.5232
+  289 0 0 0 0
+  0.5276
+  292 0 0 0 0
+  0.5392
+  293 0 0 0 0
+  0.5
+  294 0 0 0 0
+  0.514
+  296 0 0 0 0
+  0.5132
+  298 0 0 0 0
+  0.538
+  299 0 0 0 0
+  0.526
+  301 0 0 0 0
+  0.5232
+  303 0 0 0 0
+  0.5276
+  306 0 0 0 0
+  0.5392
+  307 0 0 0 0
+  0.5
+  308 0 0 0 0
+  0.514
+  310 0 0 0 0
+  0.5132
+  312 0 0 0 0
+  0.538
+  313 0 0 0 0
+  0.526
+  315 0 0 0 0
+  0.5232
+  317 0 0 0 0
+  0.5276
+  320 0 0 0 0
+  0.5392
+  321 0 0 0 0
+  0.5
+  322 0 0 0 0
+  0.514
+  324 0 0 0 0
+  0.5132
+  326 0 0 0 0
+  0.538
+  327 0 0 0 0
+  0.526
+  329 0 0 0 0
+  0.5232
+  331 0 0 0 0
+  0.5276
+  334 0 0 0 0
+  0.5392
+  335 0 0 0 0
+  0.5
+  336 0 0 0 0
+  0.514
+  338 0 0 0 0
+  0.5132
+  340 0 0 0 0
+  0.538
+  341 0 0 0 0
+  0.526
+  343 0 0 0 0
+  0.5232
+  345 0 0 0 0
+  0.5276
+  348 0 0 0 0
+  0.5392
+  349 0 0 0 0
+  0.6
+  350 0 0 0 0
+  0.114
+  352 0 0 0 0
+  0.1132
+  354 0 0 0 0
+  0.138
+  355 0 0 0 0
+  0.126
+  357 0 0 0 0
+  0.1232
+  359 0 0 0 0
+  0.1276
+  362 0 0 0 0
+  0.1392
+  363 0 0 0 0
+  0.1
+  364 0 0 0 0
+  0.114
+  366 0 0 0 0
+  0.1132
+  368 0 0 0 0
+  0.138
+  369 0 0 0 0
+  0.126
+  371 0 0 0 0
+  0.1232
+  373 0 0 0 0
+  0.1276
+  376 0 0 0 0
+  0.1392
+  377 0 0 0 0
+  0.1
+  378 0 0 0 0
+  0.114
+  380 0 0 0 0
+  0.1132
+  382 0 0 0 0
+  0.138
+  383 0 0 0 0
+  0.126
+  385 0 0 0 0
+  0.1232
+  387 0 0 0 0
+  0.1276
+  390 0 0 0 0
+  0.1392
+  391 0 0 0 0
+  0.1
+  392 0 0 0 0
+  0.114
+  394 0 0 0 0
+  0.1132
+  396 0 0 0 0
+  0.138
+  397 0 0 0 0
+  0.126
+  399 0 0 0 0
+  0.1232
+  401 0 0 0 0
+  0.1276
+  404 0 0 0 0
+  0.1392
+  405 0 0 0 0
+  0.1
+  406 0 0 0 0
+  0.114
+  408 0 0 0 0
+  0.1132
+  410 0 0 0 0
+  0.138
+  411 0 0 0 0
+  0.126
+  413 0 0 0 0
+  0.1232
+  415 0 0 0 0
+  0.1276
+  418 0 0 0 0
+  0.1392
+  419 0 0 0 0
+  0.1
+  420 0 0 0 0
+  0.114
+  422 0 0 0 0
+  0.1132
+  424 0 0 0 0
+  0.138
+  425 0 0 0 0
+  0.126
+  427 0 0 0 0
+  0.1232
+  429 0 0 0 0
+  0.1276
+  432 0 0 0 0
+  0.1392
+  433 0 0 0 0
+  0.1
+  434 0 0 0 0
+  0.114
+  436 0 0 0 0
+  0.1132
+  438 0 0 0 0
+  0.138
+  439 0 0 0 0
+  0.126
+  441 0 0 0 0
+  0.1232
+  443 0 0 0 0
+  0.1276
+  446 0 0 0 0
+  0.1392
+  447 0 0 0 0
+  0.126
+  449 0 0 0 0
+  0.1232
+  451 0 0 0 0
+  0.1276
+  454 0 0 0 0
+  0.1392
+  455 0 0 0 0
+  0.1
+  456 0 0 0 0
+  0.114
+  458 0 0 0 0
+  0.1132
+  460 0 0 0 0
+  0.138
+  461 0 0 0 0
+  0.126
+  463 0 0 0 0
+  0.1232
+  465 0 0 0 0
+  0.1276
+  468 0 0 0 0
+  0.1392
+  469 0 0 0 0
+  0.1
+  470 0 0 0 0
+  0.114
+  472 0 0 0 0
+  0.1132
+  474 0 0 0 0
+  0.138
+  475 0 0 0 0
+  0.126
+  477 0 0 0 0
+  0.1232
+  479 0 0 0 0
+  0.1276
+  482 0 0 0 0
+  0.1392
+  483 0 0 0 0
+  0.1
+  484 0 0 0 0
+  0.114
+  486 0 0 0 0
+  0.1132
+  488 0 0 0 0
+  0.138
+  489 0 0 0 0
+  0.126
+  491 0 0 0 0
+  0.1232
+  493 0 0 0 0
+  0.1276
+  496 0 0 0 0
+  0.1392
+  497 0 0 0 0
+  0.1
+  498 0 0 0 0
+  0.114
+  500 0 0 0 0
+  0.1132
+  502 0 0 0 0
+  0.138
+  503 0 0 0 0
+  0.126
+  505 0 0 0 0
+  0.1232
+  507 0 0 0 0
+  0.1276
+  510 0 0 0 0
+  0.1392
+  511 0 0 0 0
+  0.1
+  512 0 0 0 0
+  0.114
+  514 0 0 0 0
+  0.1132
+  516 0 0 0 0
+  0.138
+  517 0 0 0 0
+  0.126
+  519 0 0 0 0
+  0.1232
+  521 0 0 0 0
+  0.1276
+  524 0 0 0 0
+  0.1392
+  525 0 0 0 0
+  0.1
+  526 0 0 0 0
+  0.114
+  528 0 0 0 0
+  0.1132
+  530 0 0 0 0
+  0.138
+  531 0 0 0 0
+  0.126
+  533 0 0 0 0
+  0.1232
+  535 0 0 0 0
+  0.1276
+  538 0 0 0 0
+  0.1392
+  539 0 0 0 0
+  0.1
+  540 0 0 0 0
+  0.114
+  542 0 0 0 0
+  0.1132
+  544 0 0 0 0
+  0.138
+  545 0 0 0 0
+  0.126
+  547 0 0 0 0
+  0.1232
+  549 0 0 0 0
+  0.1276
+  552 0 0 0 0
+  0.1392
+  553 0 0 0 0
+  0.1
+  554 0 0 0 0
+  0.114
+  556 0 0 0 0
+  0.1132
+  558 0 0 0 0
+  0.138
+  559 0 0 0 0
+  0.126
+  561 0 0 0 0
+  0.1232
+  563 0 0 0 0
+  0.1276
+  566 0 0 0 0
+  0.1392
+  567 0 0 0 0
+  0.1
+  568 0 0 0 0
+  0.114
+  570 0 0 0 0
+  0.1132
+  572 0 0 0 0
+  0.138
+  573 0 0 0 0
+  0.126
+  575 0 0 0 0
+  0.1232
+  577 0 0 0 0
+  0.1276
+  580 0 0 0 0
+  0.1392
+  581 0 0 0 0
+  0.1
+  582 0 0 0 0
+  0.114
+  584 0 0 0 0
+  0.1132
+  586 0 0 0 0
+  0.138
+  587 0 0 0 0
+  0.126
+  589 0 0 0 0
+  0.1232
+  591 0 0 0 0
+  0.1276
+  594 0 0 0 0
+  0.1392
+  595 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject data\startpit\objects\Camerapod_noise2.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  224
+  0 0 1.0101 0 0 0 1 1 1
+  0 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  2 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  3 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  6 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  9 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  11 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  13 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  14 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  16 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  17 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  20 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  23 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  25 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  27 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  28 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  30 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  31 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  34 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  37 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  39 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  41 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  42 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  44 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  45 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  48 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  51 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  53 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  55 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  56 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  58 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  59 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  62 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  65 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  67 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  69 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  70 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  72 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  73 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  76 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  79 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  81 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  83 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  84 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  86 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  87 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  90 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  93 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  95 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  97 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  98 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  100 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  101 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  104 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  107 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  109 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  111 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  112 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  114 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  115 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  118 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  121 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  123 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  125 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  126 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  128 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  129 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  132 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  135 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  137 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  139 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  140 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  142 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  143 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  146 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  149 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  151 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  153 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  154 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  156 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  157 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  160 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  163 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  165 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  167 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  168 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  170 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  171 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  174 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  177 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  179 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  181 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  182 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  184 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  185 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  188 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  191 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  193 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  195 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  196 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  198 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  199 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  202 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  205 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  207 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  209 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  210 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  212 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  213 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  216 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  219 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  221 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  223 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  224 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  226 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  227 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  230 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  233 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  235 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  237 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  238 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  240 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  241 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  244 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  247 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  249 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  251 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  252 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  254 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  255 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  258 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  261 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  263 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  265 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  266 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  268 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  269 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  272 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  275 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  277 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  279 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  280 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  282 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  283 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  286 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  289 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  291 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  293 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  294 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  296 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  297 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  300 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  303 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  305 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  307 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  308 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  310 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  311 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  314 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  317 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  319 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  322 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  324 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  325 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  328 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  331 0 0 0 0
+  -0.01404 0 1.0101 0 0 0 1 1 1
+  333 0 0 0 0
+  0.0162 0 1.0101 0 0 0 1 1 1
+  335 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  336 0 0 0 0
+  0.01188 0 1.0101 0 0 0 1 1 1
+  338 0 0 0 0
+  -0.01728 0 1.0101 0 0 0 1 1 1
+  339 0 0 0 0
+  -0.00648 0 1.0101 0 0 0 1 1 1
+  342 0 0 0 0
+  0.02808 0 1.0101 0 0 0 1 1 1
+  345 0 0 0 0
+  -0.0156 0 1.0101 0 0 0 1 1 1
+  347 0 0 0 0
+  0.018 0 1.0101 0 0 0 1 1 1
+  349 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  350 0 0 0 0
+  0.22 0 1.0101 0 0 0 1 1 1
+  352 0 0 0 0
+  -0.32 0 1.0101 0 0 0 1 1 1
+  353 0 0 0 0
+  -0.12 0 1.0101 0 0 0 1 1 1
+  356 0 0 0 0
+  0.52 0 1.0101 0 0 0 1 1 1
+  359 0 0 0 0
+  -0.26 0 1.0101 0 0 0 1 1 1
+  361 0 0 0 0
+  0.3 0 1.0101 0 0 0 1 1 1
+  363 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  364 0 0 0 0
+  0.22 0 1.0101 0 0 0 1 1 1
+  366 0 0 0 0
+  -0.32 0 1.0101 0 0 0 1 1 1
+  367 0 0 0 0
+  -0.12 0 1.0101 0 0 0 1 1 1
+  370 0 0 0 0
+  0.52 0 1.0101 0 0 0 1 1 1
+  373 0 0 0 0
+  -0.26 0 1.0101 0 0 0 1 1 1
+  375 0 0 0 0
+  0.3 0 1.0101 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  378 0 0 0 0
+  0.22 0 1.0101 0 0 0 1 1 1
+  380 0 0 0 0
+  -0.32 0 1.0101 0 0 0 1 1 1
+  381 0 0 0 0
+  -0.12 0 1.0101 0 0 0 1 1 1
+  384 0 0 0 0
+  0.52 0 1.0101 0 0 0 1 1 1
+  387 0 0 0 0
+  -0.26 0 1.0101 0 0 0 1 1 1
+  389 0 0 0 0
+  0.3 0 1.0101 0 0 0 1 1 1
+  391 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  392 0 0 0 0
+  0.22 0 1.0101 0 0 0 1 1 1
+  394 0 0 0 0
+  -0.32 0 1.0101 0 0 0 1 1 1
+  395 0 0 0 0
+  -0.12 0 1.0101 0 0 0 1 1 1
+  398 0 0 0 0
+  0.52 0 1.0101 0 0 0 1 1 1
+  401 0 0 0 0
+  -0.26 0 1.0101 0 0 0 1 1 1
+  403 0 0 0 0
+  0.3 0 1.0101 0 0 0 1 1 1
+  405 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  406 0 0 0 0
+  0.22 0 1.0101 0 0 0 1 1 1
+  408 0 0 0 0
+  -0.32 0 1.0101 0 0 0 1 1 1
+  409 0 0 0 0
+  -0.12 0 1.0101 0 0 0 1 1 1
+  412 0 0 0 0
+  0.52 0 1.0101 0 0 0 1 1 1
+  415 0 0 0 0
+  -0.26 0 1.0101 0 0 0 1 1 1
+  417 0 0 0 0
+  0.3 0 1.0101 0 0 0 1 1 1
+  419 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  420 0 0 0 0
+  0.22 0 1.0101 0 0 0 1 1 1
+  422 0 0 0 0
+  -0.32 0 1.0101 0 0 0 1 1 1
+  423 0 0 0 0
+  -0.12 0 1.0101 0 0 0 1 1 1
+  426 0 0 0 0
+  0.52 0 1.0101 0 0 0 1 1 1
+  429 0 0 0 0
+  -0.26 0 1.0101 0 0 0 1 1 1
+  431 0 0 0 0
+  0.3 0 1.0101 0 0 0 1 1 1
+  433 0 0 0 0
+  0 0 1.0101 0 0 0 1 1 1
+  434 0 0 0 0
+  0.22 0 1.0101 0 0 0 1 1 1
+  436 0 0 0 0
+  -0.32 0 1.0101 0 0 0 1 1 1
+  437 0 0 0 0
+  -0.12 0 1.0101 0 0 0 1 1 1
+  440 0 0 0 0
+  0.52 0 1.0101 0 0 0 1 1 1
+  443 0 0 0 0
+  -0.26 0 1.0101 0 0 0 1 1 1
+  445 0 0 0 0
+  0.3 0 1.0101 0 0 0 1 1 1
+  447 0 0 0 0
+EndBehavior 2
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  234
+  0.46
+  0 0 0 0 0
+  0.4479998
+  5 0 0 0 0
+  0.56
+  9 0 0 0 0
+  0.388
+  11 0 0 0 0
+  0.58
+  13 0 0 0 0
+  0.44
+  15 0 0 0 0
+  0.512
+  18 0 0 0 0
+  0.424
+  19 0 0 0 0
+  0.46
+  20 0 0 0 0
+  0.4479998
+  25 0 0 0 0
+  0.56
+  29 0 0 0 0
+  0.388
+  31 0 0 0 0
+  0.58
+  33 0 0 0 0
+  0.44
+  35 0 0 0 0
+  0.512
+  38 0 0 0 0
+  0.424
+  39 0 0 0 0
+  0.46
+  40 0 0 0 0
+  0.4479998
+  45 0 0 0 0
+  0.56
+  49 0 0 0 0
+  0.388
+  51 0 0 0 0
+  0.58
+  53 0 0 0 0
+  0.44
+  55 0 0 0 0
+  0.512
+  58 0 0 0 0
+  0.424
+  59 0 0 0 0
+  0.46
+  60 0 0 0 0
+  0.4479998
+  65 0 0 0 0
+  0.56
+  69 0 0 0 0
+  0.388
+  71 0 0 0 0
+  0.58
+  73 0 0 0 0
+  0.44
+  75 0 0 0 0
+  0.512
+  78 0 0 0 0
+  0.424
+  79 0 0 0 0
+  0.46
+  80 0 0 0 0
+  0.4479998
+  85 0 0 0 0
+  0.56
+  89 0 0 0 0
+  0.388
+  91 0 0 0 0
+  0.58
+  93 0 0 0 0
+  0.44
+  95 0 0 0 0
+  0.512
+  98 0 0 0 0
+  0.424
+  99 0 0 0 0
+  0.46
+  100 0 0 0 0
+  0.4479998
+  105 0 0 0 0
+  0.56
+  109 0 0 0 0
+  0.388
+  111 0 0 0 0
+  0.58
+  113 0 0 0 0
+  0.44
+  115 0 0 0 0
+  0.512
+  118 0 0 0 0
+  0.424
+  119 0 0 0 0
+  0.46
+  120 0 0 0 0
+  0.4479998
+  125 0 0 0 0
+  0.56
+  129 0 0 0 0
+  0.388
+  131 0 0 0 0
+  0.58
+  133 0 0 0 0
+  0.44
+  135 0 0 0 0
+  0.512
+  138 0 0 0 0
+  0.424
+  139 0 0 0 0
+  0.46
+  140 0 0 0 0
+  0.4479998
+  145 0 0 0 0
+  0.56
+  149 0 0 0 0
+  0.388
+  151 0 0 0 0
+  0.58
+  153 0 0 0 0
+  0.44
+  155 0 0 0 0
+  0.512
+  158 0 0 0 0
+  0.424
+  159 0 0 0 0
+  0.46
+  160 0 0 0 0
+  0.4479998
+  165 0 0 0 0
+  0.56
+  169 0 0 0 0
+  0.388
+  171 0 0 0 0
+  0.58
+  173 0 0 0 0
+  0.44
+  175 0 0 0 0
+  0.512
+  178 0 0 0 0
+  0.424
+  179 0 0 0 0
+  0.46
+  180 0 0 0 0
+  0.4479998
+  185 0 0 0 0
+  0.56
+  189 0 0 0 0
+  0.388
+  191 0 0 0 0
+  0.58
+  193 0 0 0 0
+  0.44
+  195 0 0 0 0
+  0.512
+  198 0 0 0 0
+  0.424
+  199 0 0 0 0
+  0.46
+  200 0 0 0 0
+  0.4479998
+  205 0 0 0 0
+  0.56
+  209 0 0 0 0
+  0.388
+  211 0 0 0 0
+  0.58
+  213 0 0 0 0
+  0.44
+  215 0 0 0 0
+  0.512
+  218 0 0 0 0
+  0.424
+  219 0 0 0 0
+  0.46
+  220 0 0 0 0
+  0.4479998
+  225 0 0 0 0
+  0.56
+  229 0 0 0 0
+  0.388
+  231 0 0 0 0
+  0.58
+  233 0 0 0 0
+  0.44
+  235 0 0 0 0
+  0.512
+  238 0 0 0 0
+  0.424
+  239 0 0 0 0
+  0.46
+  240 0 0 0 0
+  0.4479998
+  245 0 0 0 0
+  0.56
+  249 0 0 0 0
+  0.388
+  251 0 0 0 0
+  0.58
+  253 0 0 0 0
+  0.44
+  255 0 0 0 0
+  0.512
+  258 0 0 0 0
+  0.424
+  259 0 0 0 0
+  0.46
+  260 0 0 0 0
+  0.4479998
+  265 0 0 0 0
+  0.56
+  269 0 0 0 0
+  0.388
+  271 0 0 0 0
+  0.58
+  273 0 0 0 0
+  0.44
+  275 0 0 0 0
+  0.512
+  278 0 0 0 0
+  0.424
+  279 0 0 0 0
+  0.46
+  280 0 0 0 0
+  0.4479998
+  285 0 0 0 0
+  0.56
+  289 0 0 0 0
+  0.388
+  291 0 0 0 0
+  0.58
+  293 0 0 0 0
+  0.44
+  295 0 0 0 0
+  0.512
+  298 0 0 0 0
+  0.424
+  299 0 0 0 0
+  0.46
+  300 0 0 0 0
+  0.4479998
+  305 0 0 0 0
+  0.56
+  309 0 0 0 0
+  0.388
+  311 0 0 0 0
+  0.58
+  313 0 0 0 0
+  0.44
+  315 0 0 0 0
+  0.512
+  318 0 0 0 0
+  0.424
+  319 0 0 0 0
+  0.388
+  321 0 0 0 0
+  0.58
+  323 0 0 0 0
+  0.44
+  325 0 0 0 0
+  0.512
+  328 0 0 0 0
+  0.424
+  329 0 0 0 0
+  0.46
+  330 0 0 0 0
+  0.4479998
+  335 0 0 0 0
+  0.56
+  339 0 0 0 0
+  0.388
+  341 0 0 0 0
+  0.58
+  343 0 0 0 0
+  0.44
+  345 0 0 0 0
+  0.07099998
+  348 0 0 0 0
+  0.02399998
+  349 0 0 0 0
+  0.05900005
+  350 0 0 0 0
+  0.0439998
+  355 0 0 0 0
+  0.09399999
+  359 0 0 0 0
+  0.04500004
+  361 0 0 0 0
+  0.08399995
+  363 0 0 0 0
+  0.05299999
+  365 0 0 0 0
+  0.06899997
+  368 0 0 0 0
+  0.05499998
+  369 0 0 0 0
+  0.04
+  370 0 0 0 0
+  0.07099998
+  373 0 0 0 0
+  0.02399998
+  374 0 0 0 0
+  0.05900005
+  375 0 0 0 0
+  0.0439998
+  380 0 0 0 0
+  0.09399999
+  384 0 0 0 0
+  0.04500004
+  386 0 0 0 0
+  0.08399995
+  388 0 0 0 0
+  0.05299999
+  390 0 0 0 0
+  0.06899997
+  393 0 0 0 0
+  0.05499998
+  394 0 0 0 0
+  0.06000005
+  395 0 0 0 0
+  0.0479998
+  400 0 0 0 0
+  0.04
+  401 0 0 0 0
+  0.07099998
+  404 0 0 0 0
+  0.02399998
+  405 0 0 0 0
+  0.05900005
+  406 0 0 0 0
+  0.0439998
+  411 0 0 0 0
+  0.09399999
+  415 0 0 0 0
+  0.04500004
+  417 0 0 0 0
+  0.08399995
+  419 0 0 0 0
+  0.05299999
+  421 0 0 0 0
+  0.06899997
+  424 0 0 0 0
+  0.05499998
+  425 0 0 0 0
+  0.04
+  426 0 0 0 0
+  0.07099998
+  429 0 0 0 0
+  0.02399998
+  430 0 0 0 0
+  0.05900005
+  431 0 0 0 0
+  0.0439998
+  436 0 0 0 0
+  0.09399999
+  440 0 0 0 0
+  0.04500004
+  442 0 0 0 0
+  0.08399995
+  444 0 0 0 0
+  0.05299999
+  446 0 0 0 0
+  0.06899997
+  449 0 0 0 0
+  0.05499998
+  450 0 0 0 0
+  0.06000005
+  451 0 0 0 0
+  0.0479998
+  456 0 0 0 0
+  0.04
+  457 0 0 0 0
+  0.07099998
+  460 0 0 0 0
+  0.02399998
+  461 0 0 0 0
+  0.05900005
+  462 0 0 0 0
+  0.0439998
+  467 0 0 0 0
+  0.09399999
+  471 0 0 0 0
+  0.04500004
+  473 0 0 0 0
+  0.08399995
+  475 0 0 0 0
+  0.05299999
+  477 0 0 0 0
+  0.06899997
+  480 0 0 0 0
+  0.05499998
+  481 0 0 0 0
+  0.04
+  482 0 0 0 0
+  0.07099998
+  485 0 0 0 0
+  0.02399998
+  486 0 0 0 0
+  0.05900005
+  487 0 0 0 0
+  0.0439998
+  492 0 0 0 0
+  0.09399999
+  496 0 0 0 0
+  0.04500004
+  498 0 0 0 0
+  0.08399995
+  500 0 0 0 0
+  0.05299999
+  502 0 0 0 0
+  0.06899997
+  505 0 0 0 0
+  0.05499998
+  506 0 0 0 0
+  0.06000005
+  507 0 0 0 0
+  0.0479998
+  512 0 0 0 0
+  0.04
+  513 0 0 0 0
+  0.07099998
+  516 0 0 0 0
+  0.02399998
+  517 0 0 0 0
+  0.05900005
+  518 0 0 0 0
+  0.0439998
+  523 0 0 0 0
+  0.09399999
+  527 0 0 0 0
+  0.04500004
+  529 0 0 0 0
+  0.08399995
+  531 0 0 0 0
+  0.05299999
+  533 0 0 0 0
+  0.06899997
+  536 0 0 0 0
+  0.05499998
+  537 0 0 0 0
+  0.04
+  538 0 0 0 0
+  0.07099998
+  541 0 0 0 0
+  0.02399998
+  542 0 0 0 0
+  0.05900005
+  543 0 0 0 0
+  0.0439998
+  548 0 0 0 0
+  0.09399999
+  552 0 0 0 0
+  0.04500004
+  554 0 0 0 0
+  0.08399995
+  556 0 0 0 0
+  0.05299999
+  558 0 0 0 0
+  0.06899997
+  561 0 0 0 0
+  0.05499998
+  562 0 0 0 0
+  0.06000005
+  563 0 0 0 0
+  0.0479998
+  568 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject data\startpit\objects\cameraname.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.4659493 0.45 1.0001 0 0 0 0.5 0.5 0.5
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 0 0 0
+  0
+  50 0 0 0 0
+  0
+  100 1 0 0 0
+  1
+  150 1 0 0 0
+  1
+  200 1 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_speed.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 120
+Metamorph (envelope)
+  1
+  10
+  0
+  0 0 0 0 0
+  0.5840001
+  14 0 0 0 0
+  0.072
+  23 0 0 0 0
+  0.924
+  32 0 0 0 0
+  0.324
+  40 0 0 0 0
+  0.696
+  46 0 0 0 0
+  0.9160001
+  50 0 0 0 0
+  0.924
+  51 0 0 0 0
+  0.148
+  56 0 0 0 0
+  0.008000076
+  58 0 0 0 0
+EndBehavior 2
+MorphTarget 131
+MorphSurfaces 0
+ObjDissolve (envelope)
+  1
+  1
+  0
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_speed_mt1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  9
+  0.6320001
+  0 0 0 0 0
+  0.08400001
+  15 0 0 0 0
+  0.932
+  26 0 0 0 0
+  0.352
+  29 0 0 0 0
+  0.132
+  33 0 0 0 0
+  0.66
+  44 0 0 0 0
+  0.8840001
+  48 0 0 0 0
+  0.304
+  51 0 0 0 0
+  0.696
+  59 0 0 0 0
+EndBehavior 2
+MorphTarget 132
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_speed_mt2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_speed.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 130
+Metamorph (envelope)
+  1
+  10
+  0
+  0 0 0 0 0
+  0.2040001
+  14 0 0 0 0
+  0.9480003
+  23 0 0 0 0
+  0.1360002
+  32 0 0 0 0
+  0.784
+  40 0 0 0 0
+  0.03199986
+  46 0 0 0 0
+  0.264
+  50 0 0 0 0
+  0.04400001
+  51 0 0 0 0
+  0.6999999
+  56 0 0 0 0
+  0.008000076
+  58 0 0 0 0
+EndBehavior 2
+MorphTarget 134
+MorphSurfaces 0
+ObjDissolve (envelope)
+  1
+  1
+  0
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_speed_mt1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  26
+  0.6320001
+  0 0 0 0 0
+  0.836
+  15 0 0 0 0
+  0.156
+  26 0 0 0 0
+  0.9359998
+  29 0 0 0 0
+  0.3359999
+  33 0 0 0 0
+  0.1560001
+  48 0 0 0 0
+  0.9079999
+  51 0 0 0 0
+  0.5599999
+  59 0 0 0 0
+  0.836
+  75 0 0 0 0
+  0.156
+  86 0 0 0 0
+  0.3359999
+  93 0 0 0 0
+  0.1560001
+  108 0 0 0 0
+  0.9079999
+  111 0 0 0 0
+  0.5599999
+  119 0 0 0 0
+  0.836
+  135 0 0 0 0
+  0.156
+  146 0 0 0 0
+  0.9359998
+  149 0 0 0 0
+  0.3359999
+  153 0 0 0 0
+  0.892
+  164 0 0 0 0
+  0.1560001
+  168 0 0 0 0
+  0.4559999
+  171 0 0 0 0
+  0.5599999
+  179 0 0 0 0
+  0.836
+  195 0 0 0 0
+  0.156
+  206 0 0 0 0
+  0.3359999
+  213 0 0 0 0
+  0.1560001
+  228 0 0 0 0
+EndBehavior 2
+MorphTarget 132
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_speed.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 130
+Metamorph (envelope)
+  1
+  19
+  0.632
+  0 0 0 0 0
+  0.3200001
+  14 0 0 0 0
+  0.5880002
+  23 0 0 0 0
+  0.6240002
+  32 0 0 0 0
+  0.308
+  40 0 0 0 0
+  0.4759999
+  46 0 0 0 0
+  0.3959999
+  50 0 0 0 0
+  0.488
+  51 0 0 0 0
+  0.4519999
+  56 0 0 0 0
+  0.5959999
+  59 0 0 0 0
+  0.7400001
+  73 0 0 0 0
+  0.9160002
+  82 0 0 0 0
+  0.6240002
+  91 0 0 0 0
+  0.308
+  99 0 0 0 0
+  0.5759999
+  105 0 0 0 0
+  0.36
+  109 0 0 0 0
+  0.64
+  110 0 0 0 0
+  0.8600001
+  115 0 0 0 0
+  0.3360002
+  117 0 0 0 0
+EndBehavior 2
+MorphTarget 134
+MorphSurfaces 0
+ObjDissolve (envelope)
+  1
+  1
+  0
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\5_5_objects\skydome.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  8.579162 2000 -6.699674 102.5001 60.00002 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 232 94 142
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 93
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 95
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 97
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 99
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 101
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 103
+LightColor 252 233 233
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 1
+ZoomFactor 1.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 4
+ViewAimpoint 257.494385 712.932739 871.549561
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.777779
+GridNumber 100
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

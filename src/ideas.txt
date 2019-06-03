@@ -1,0 +1,30 @@
+- røyk-ting. Lage vha. tvinnet maps med hvitt på. Kjøre motion blur. Kan f.eks. brukes under introen?
+Røyk på sida, tekst på motsatt side. Kan sikkert også gjenbrukes lenger ut. F.eks. som overgang...?
+- lage masse 2d-dill man kan legge over. Lage dette i egne scener med et eget parentobjekt.
+Dette objektet parentes så bare til kameraobjektet. Må ha med fade-plate etc. 
+- en eller annen fet fiksjons-klippe-greie? Kommer an på musikken. 
+- scene med søyler (firkantet, sånn slags garasje-setting), med hender som strekker seg ut av søylene. 
+Kan bli litt vanskelig, men bør være med for å vinne. :)
+- Bilder? F.eks. av piraten til Geir Anders? Flere rendringer fra flere vinkler slik at man kan klippe 
+en liten snutt av dem?
+- et slags slutt-bilde med et fengende slagord (evt. Visually in Control)
+- kjøre nesten alt i widescreen. Det virker mer profft. Dermed vinner vi. 
+- masse lyse, fine scener med ting som glinser. 
+- PERSPEKTIV-TRIKS!
+- hvite bakgrunner på mange ting. 
+- ...og lag nå for helvete ikke scenene for mørke!
+- transparente overlay-greier. F.eks. innsida av en kule/flere kuler. Additiv naturligvis. 
+- sjekk sunflower-demoer for inspirasjon.
+- overlay-bilder med wireframe. Rendre fra lightwave. 
+- overlay-greie med det øyet som blunker. 
+- Bruk crossfade-trikset som GT på PS2 bruker. :)
+
+TODO:
+- sleng på kamerapods som flyr rundt racerne.
+- lag horisontal motionblur på texturer!
+
+Trenger:
+- helten må titte ned (oppgitt), venstre, høyre og langt opp
+- må ha noen stoooore skip. Sånn ca. 100 ganger større enn pod'ene. 
+- rutegreie langs veggen i den kanalen
+- slen

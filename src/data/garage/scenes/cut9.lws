@@ -1,0 +1,441 @@
+LWSC
+1
+
+FirstFrame 250
+LastFrame 400
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 600
+PreviewFrameStep 1
+FramesPerSecond 100.000000
+
+LoadObject data\Podrace\Objects\plane\Hatch_low_left_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.25 -1.85 0 0 0 2.000003 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PivotPoint -1.25 -1.85 0
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Hatch_low_right_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.25 -1.875 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PivotPoint 1.25 -1.875 0
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Plane_high_lw5.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Prop_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0.15 0 0 0 360 1 1 1
+  0 0 0 0 0
+  0 0.15 0 0 0 0 1 1 1
+  5 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+PivotPoint 0 0.15 0
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Rocket_back_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -3.725001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 6
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\rocket_base_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1.725 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Rocket_front_low_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.824999 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 6
+ShadowOptions 7
+
+AddNullObject Plane_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 10 10 10
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject FLR2 07.0000 50.0000 05.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.25 -2.799999 -2.874998 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ShadowOptions 7
+
+AddNullObject FLR2 07.0000 50.0000 05.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.250004 -2.799999 -2.799997 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_normal_high_mt1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Scarf_normal_high_mt2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+Metamorph (envelope)
+  1
+  7
+  0.212
+  0 0 0 0 0
+  0.24
+  10 0 0 0 0
+  0.664
+  43 0 0 0 0
+  0.288
+  74 0 0 0 0
+  0.9200005
+  122 0 0 0 0
+  0.136
+  152 0 0 0 0
+  0.2119999
+  200 0 0 0 0
+EndBehavior 2
+MorphTarget 11
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\dashboard.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\GreenButtons.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.3349999 1.569999 0.4599997 0 46.80001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\BigRedButton.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.23 1.484999 0.32 0 45.70001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\pilot_arm.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0.4409847 0.135 -1.115067 0 0 0 1 1 1
+  0 0 0 0 0
+  0.2905765 0.135 -0.6562621 0 0 0 1 1 1
+  200 0 0 0 0
+EndBehavior 1
+ParentObject 26
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\pilot_glove.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.035 -0.015 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 16
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Speedometer.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.04 1.639999 0.5349998 0 62.40012 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Speedometer.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.09999232 1.629999 0.5435328 0 62.40012 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Speedometer.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.1899394 1.629999 0.5515697 0 62.40012 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Speedometer.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.1692867 1.345 0.2113313 0 43.50006 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\GreenButtons.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.1763335 1.459999 0.3253478 0 46.80001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\GreenButtons.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.3227394 1.34 0.2168737 0 46.80001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 8
+ShadowOptions 7
+
+AddNullObject CameraNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  8
+  -0.3410596 21.045 -8.102411 3.099997 38.50004 0 1 1 1
+  0 0 0 0 0
+  -0.2625998 21.04216 -8.102411 3.099997 38.50004 0 1 1 1
+  1 0 0 0 0
+  -0.4202005 21.04862 -8.102411 3.099997 38.50004 0 1 1 1
+  2 0 0 0 0
+  -0.4092004 21.04364 -8.102411 3.099997 38.50004 0 1 1 1
+  4 0 0 0 0
+  -0.2789999 21.04327 -8.102411 3.099997 38.50004 0 1 1 1
+  6 0 0 0 0
+  -0.3821999 21.04754 -8.102411 3.099997 38.50004 0 1 1 1
+  10 0 0 0 0
+  -0.2824003 21.04168 -8.102411 3.099997 38.50004 0 1 1 1
+  12 0 0 0 0
+  -0.3509999 21.05164 -8.102411 3.099997 38.50004 0 1 1 1
+  14 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject data\city1\objects\widescreen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 24
+ShadowOptions 7
+
+AddNullObject ArmNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  8
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.02600002 0.01799999 -0.03 0 0 0 1 1 1
+  2 0 0 0 0
+  0.03200001 -0.01199999 0.04 0 0 0 1 1 1
+  5 0 0 0 0
+  -0.01799999 -0.024 -0.03 0 0 0 1 1 1
+  6 0 0 0 0
+  0.03000003 -0.003999989 0.03 0 0 0 1 1 1
+  9 0 0 0 0
+  -0.026 0.01399999 0.02 0 0 0 1 1 1
+  10 0 0 0 0
+  0.01399999 -0.012 -0.03 0 0 0 1 1 1
+  12 0 0 0 0
+  -0.01800001 0 0 0 0 0 1 1 1
+  13 0 0 0 0
+EndBehavior 2
+ParentObject 8
+ShadowOptions 7
+
+LoadObject data\city1\5_5_objects\skydome.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -15.775 30.7 -9.710001 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 24
+ZoomFactor 1.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint -1.999999 2.000000 -1.135001
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.185185
+GridNumber 100
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

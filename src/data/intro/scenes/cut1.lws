@@ -1,0 +1,552 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 1
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 5000
+PreviewFrameStep 1
+FramesPerSecond 100.000000
+
+AddNullObject CameraNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  8.327488 85.49999 -31.20087 2.8 17.3 0 1 1 1
+  0 0 0 0 0
+  8.302518 27.02824 -31.19965 2.8 17.3 0 1 1 1
+  736 0 0 0 0
+  8.327488 -168.725 -31.20087 2.8 17.3 0 1 1 1
+  3200 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\widescreen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 1
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 -129.9999 0 0 1 1 1
+  200 0 0 0 0
+  0 0 0 -227.9999 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 -118.0001 0 0 1 1 1
+  760 0 0 0 0
+  0 0 0 -307.9998 0 0 1 1 1
+  1120 0 0 0 0
+  0 0 0 -360 0 0 1 1 1
+  1200 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 4
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_mt1_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\smoke\objects\smoke_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 80 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 192.0001 0 0 1 1 1
+  260 0 0 0 0
+  0 0 0 215.9997 0 0 1 1 1
+  520 0 0 0 0
+  0 0 0 293.9998 0 0 1 1 1
+  780 0 0 0 0
+  0 0 0 387.9998 0 0 1 1 1
+  960 0 0 0 0
+  0 0 0 440 0 0 1 1 1
+  1200 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 4
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\smoke_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 510 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 150 0 0 1 1 1
+  1200 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 4
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_3.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\title.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 0 1.001 0 0 0 0.3 0.3 0.3
+  0 0 0 0 0
+  0 0 1.001 0 0 0 0.3 0.3 0.3
+  3300 1 0 0 0
+  0 0 1.001 0 0 0 0.6 0.3 0.3
+  4500 0 0 0 0
+EndBehavior 1
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  3
+  1
+  0 0 0 0 0
+  1
+  3300 1 0 0 0
+  0
+  3400 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\Title2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\RawCred.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 -0.175 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.048747 -0.175 1.052292 0 0 0 1 1 1
+  800 0 0 0 0
+EndBehavior 2
+LockedChannels 2
+ParentObject 12
+ObjDissolve (envelope)
+  1
+  4
+  1
+  0 0 0 0 0
+  0.148
+  400 0 0 0 0
+  0.132
+  600 0 0 0 0
+  1
+  800 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\Rawhead.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  2
+  0.523152 0 1.001 0 0 0 0.4 0.4 0.4
+  0 0 0 0 0
+  1.072495 0 1.001 0 0 0 0.7 0.4 0.4
+  800 0 0 0 0
+EndBehavior 2
+LockedChannels 6
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  4
+  1
+  0 0 0 0 0
+  0.15
+  400 0 0 0 0
+  0.1
+  600 0 0 0 0
+  1
+  800 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 -129.9999 0 0 1 1 1
+  200 0 0 0 0
+  0 0 0 -227.9999 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 -118.0001 0 0 1 1 1
+  760 0 0 0 0
+  0 0 0 -307.9998 0 0 1 1 1
+  1120 0 0 0 0
+  0 0 0 -360 0 0 1 1 1
+  1200 0 0 0 0
+EndBehavior 2
+ParentObject 19
+Metamorph 1.000000
+MorphTarget 14
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_mt1_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\smoke\objects\smoke_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 80 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 192.0001 0 0 1 1 1
+  260 0 0 0 0
+  0 0 0 215.9997 0 0 1 1 1
+  520 0 0 0 0
+  0 0 0 293.9998 0 0 1 1 1
+  780 0 0 0 0
+  0 0 0 387.9998 0 0 1 1 1
+  960 0 0 0 0
+  0 0 0 440 0 0 1 1 1
+  1200 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 14
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\smoke_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 510 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 150 0 0 1 1 1
+  1200 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 14
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_3.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject SmokeNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  26.79998 -105.775 -0.4499969 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\Kezoomer.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 12
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 0 0 0
+  1
+  800 1 0 0 0
+  0.15
+  1200 0 0 0 0
+  0.15
+  1400 0 0 0 0
+  1
+  1600 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\KezCred.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 11
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 0 0 0
+  1
+  800 1 0 0 0
+  0.2
+  1200 0 0 0 0
+  0.2
+  1400 0 0 0 0
+  1
+  1600 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\cyberfish.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  -0.52 0 1.001 0 0 0 0.4 0.4 0.4
+  0 0 0 0 0
+  -0.45 0 1.001 0 0 0 0.4 0.4 0.4
+  1600 1 0 0 0
+  -1.0725 0 1.001 0 0 0 0.7 0.4 0.4
+  2400 1 0 0 0
+EndBehavior 2
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 0 0 0
+  1
+  1600 1 0 0 0
+  0.2
+  2000 0 0 0 0
+  0.2
+  2200 0 0 0 0
+  1
+  2400 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\CybCred.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 -0.175 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.175 0 0 0 0 1 1 1
+  1600 1 0 0 0
+  1.0488 -0.175 0 0 0 0 1 1 1
+  2400 0 0 0 0
+EndBehavior 2
+ParentObject 22
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 0 0 0
+  1
+  1600 1 0 0 0
+  0.15
+  2000 0 0 0 0
+  0.15
+  2200 0 0 0 0
+  1
+  2400 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\Randi.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  -0.52 0 1.001 0 0 0 0.4 0.4 0.4
+  0 0 0 0 0
+  -0.45 0 1.001 0 0 0 0.4 0.4 0.4
+  2400 1 0 0 0
+  -1.0725 0 1.001 0 0 0 0.7 0.4 0.4
+  3200 1 0 0 0
+EndBehavior 1
+ParentObject 1
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 0 0 0
+  1
+  2400 1 0 0 0
+  0.15
+  2800 0 0 0 0
+  0.15
+  3000 0 0 0 0
+  1
+  3100 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\intro\objects\vocals.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 -0.175 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.175 0 0 0 0 1 1 1
+  2400 1 0 0 0
+  1.0488 -0.175 0 0 0 0 1 1 1
+  3200 0 0 0 0
+EndBehavior 1
+ParentObject 24
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 0 0 0
+  1
+  2400 1 0 0 0
+  0.15
+  2800 0 0 0 0
+  0.15
+  3000 0 0 0 0
+  1
+  3100 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -2 2 -2 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 1
+ZoomFactor 1.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 8.896702 85.202324 -30.271852
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 30.375000
+GridNumber 100
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

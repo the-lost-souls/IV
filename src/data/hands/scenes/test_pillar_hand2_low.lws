@@ -1,0 +1,339 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 600
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 90
+PreviewFrameStep 1
+FramesPerSecond 10.000000
+
+LoadObject data\hands\objects\Pillar_hand2_low_lw5_8.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\Pillar_hand2_low_lw5_7.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  11
+  0
+  0 0 0 0 0
+  0
+  500 0 0 0 0
+  0.1
+  600 0 0 0 0
+  0.75
+  610 0 0 0 0
+  0.9400001
+  630 0 0 0 0
+  0.494
+  650 0 0 0 0
+  0.7399999
+  670 0 0 0 0
+  0.06999999
+  690 0 0 0 0
+  0.7300002
+  710 0 0 0 0
+  1
+  730 0 0 0 0
+  1
+  1040 1 0 0 0
+EndBehavior 1
+MorphTarget 1
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\Pillar_hand2_low_lw5_6.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  11
+  0
+  0 0 0 0 0
+  0
+  400 0 0 0 0
+  0.08800001
+  500 0 0 0 0
+  0.7799996
+  600 0 0 0 0
+  0.968
+  620 0 0 0 0
+  0.7659996
+  640 0 0 0 0
+  0.9259999
+  660 0 0 0 0
+  0.1460003
+  680 0 0 0 0
+  0.7660001
+  700 0 0 0 0
+  1
+  740 0 0 0 0
+  1
+  1040 1 0 0 0
+EndBehavior 1
+MorphTarget 2
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand2_low_lw5_5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  9
+  0
+  0 0 0 0 0
+  0.14
+  400 0 0 0 0
+  0.7879996
+  500 0 0 0 0
+  0.9399999
+  610 0 0 0 0
+  0.4760001
+  630 0 0 0 0
+  0.8839998
+  650 0 0 0 0
+  0.3339999
+  670 0 0 0 0
+  1
+  690 0 0 0 0
+  1
+  1040 1 0 0 0
+EndBehavior 1
+MorphTarget 3
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand2_low_lw5_4.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.373776 0 0.6346177 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  6
+  0
+  0 0 0 0 0
+  0
+  200 0 0 0 0
+  0.108
+  300 0 0 0 0
+  0.7919997
+  400 0 0 0 0
+  1
+  600 0 0 0 0
+  1
+  1040 1 0 0 0
+EndBehavior 2
+MorphTarget 4
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand2_low_lw5_3.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  6
+  0
+  0 0 0 0 0
+  0
+  100 0 0 0 0
+  0.124
+  200 0 0 0 0
+  0.7959999
+  300 0 0 0 0
+  1
+  500 0 0 0 0
+  1
+  1040 1 0 0 0
+EndBehavior 2
+MorphTarget 5
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand2_low_lw5_2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph (envelope)
+  1
+  5
+  0
+  0 0 0 0 0
+  0.104
+  100 0 0 0 0
+  0.7999999
+  200 0 0 0 0
+  1
+  400 0 0 0 0
+  1
+  1040 1 0 0 0
+EndBehavior 2
+MorphTarget 6
+MorphSurfaces 0
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\hands\objects\pillar_hand2_low_lw5_1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 9
+Metamorph (envelope)
+  1
+  4
+  0
+  0 0 0 0 0
+  0.7879996
+  100 0 0 0 0
+  1
+  300 0 0 0 0
+  1
+  1040 1 0 0 0
+EndBehavior 2
+MorphTarget 7
+MorphSurfaces 0
+ShadowOptions 7
+
+AddNullObject Pillar_hand2_low_null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 45 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -52.89998 2 -17.3 93.4002 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+LockedChannels 48
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  28.40002 2 -33.90001 -73.7998 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+LockedChannels 48
+LightColor 38 149 168
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  3
+  -56.96043 0 -25.36994 71.3 0.6000002 0 1 1 1
+  0 0 0 0 0
+  -48.1877 0 -28.20706 71.3 0.6000002 0 1 1 1
+  450 0 0 0 0
+  -41.02793 0 -44.6812 38.9 1.5 0 1 1 1
+  630 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.136000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.185185
+GridNumber 40
+GridSize 20.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

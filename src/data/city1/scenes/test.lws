@@ -1,0 +1,5164 @@
+LWSC
+1
+
+FirstFrame 200
+LastFrame 800
+FrameStep 1
+PreviewFirstFrame 400
+PreviewLastFrame 800
+PreviewFrameStep 1
+FramesPerSecond 100.000000
+
+LoadObject data\podrace_bigwall\objects\bigwall_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\huge_ship1.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  2
+  -822.5 562.5 -1410 86.08737 4.344575 0 1 1 1
+  0 0 0 0 0
+  415.0561 907.5 -1326.911 90 0 0 1 1 1
+  800 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\house01_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  901.3786 0 -1709.535 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\House03_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  880 0 -1320 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\House02_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  440 0 -1350 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\House03_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  410 0 -1840 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\House02_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  357.5 0 -2275 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\House02_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  765 0 -2525 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\GarageBuilding.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  80 2450 -7000 90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\Medium_ship1.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  2
+  468.6715 465 -1143.948 -89.92003 -6.16761 0 1 1 1
+  0 0 0 0 0
+  -2400 550 -1140 -90 0 0 1 1 1
+  800 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\Medium_ship1.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  3
+  320 345 -1180 -89.26002 -3.138531 0 1 1 1
+  0 0 0 0 0
+  26.875 370.7813 -1168.75 -89.26183 -5.069016 0 1 1 1
+  75 0 0 0 0
+  -2780 620 -1140 -90 0 0 1 1 1
+  800 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  11
+  0 600 -590 0 0 0 1 1 1
+  0 0 0 0 0
+  0 550 -1130 0 0 0 1 1 1
+  100 0 0 0 0
+  0 70 -2300 0 0 0 1 1 1
+  200 0 0 0 0
+  0 180 -3680 0 0 0 1 1 1
+  300 0 0 0 0
+  0 60 -5070 0 0 0 1 1 1
+  400 0 0 0 0
+  0 140 -5380 0 0 0 1 1 1
+  500 0 0 0 0
+  0 1280 -5420 0 0 0 1 1 1
+  600 0 0 0 0
+  0 2310 -5430 0 0 0 1 1 1
+  700 0 0 0 0
+  0 2520 -5550 0 0 0 1 1 1
+  800 0 0 0 0
+  0 2480 -5880 0 0 0 1 1 1
+  900 0 0 0 0
+  0 2480 -6540 0 0 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject NullObject
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2503.521 -6215.369 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2516.174 -6110.833 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2528.274 -6006.231 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2539.018 -5901.457 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2547.063 -5796.664 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2549.402 -5690.88 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2532.974 -5586.834 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2486.953 -5494.354 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2400.494 -5436.297 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2297.112 -5422.546 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2191.942 -5426.001 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2086.684 -5432.366 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1981.374 -5437.37 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1877.141 -5438.898 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1771.765 -5439.633 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1666.264 -5440.932 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1560.792 -5442.372 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1455.658 -5443.767 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1350.294 -5445.006 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1245.016 -5445.978 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1139.71 -5446.563 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1034.288 -5446.603 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 929.0623 -5445.853 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 823.476 -5443.871 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 718.5922 -5439.69 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 613.8826 -5435.196 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 508.6953 -5439.201 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 403.7769 -5447.082 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 298.8208 -5449.689 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 195.8407 -5430.827 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 108.6381 -5374.584 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 58.77417 -5284.365 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 47.09119 -5179.491 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 48.34338 -5074.224 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 55.62952 -4969.365 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 66.41064 -4864.429 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 79.34131 -4759.771 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 93.57532 -4655.636 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 108.6244 -4551.477 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 124.0535 -4447.3 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 139.475 -4343.16 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 154.5326 -4238.979 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 168.8473 -4134.625 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 181.9462 -4030.063 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 193.1931 -3925.35 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 201.6788 -3820.343 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 205.8594 -3715.404 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 204.9822 -3610.722 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 200.3627 -3505.636 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 192.6617 -3400.687 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 182.598 -3295.928 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 170.9327 -3191.327 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 158.4775 -3086.857 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 146.0872 -2982.383 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 134.6804 -2877.739 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 125.2754 -2772.91 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 118.9806 -2667.933 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 116.9924 -2562.711 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 120.6017 -2457.552 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 131.1012 -2352.91 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 149.7719 -2249.428 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 176.3557 -2147.651 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 209.2206 -2047.681 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 246.8718 -1949.413 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 288.0055 -1852.542 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 331.447 -1756.678 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 376.1051 -1661.324 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 420.8042 -1566.068 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 464.3196 -1470.291 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 505.1968 -1373.202 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 541.3274 -1274.326 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 569.8177 -1173.198 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 590.8594 -1070.223 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 609.5872 -966.6138 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 625.626 -862.5957 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 638.4395 -758.1738 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 647.3768 -653.3926 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 651.6454 -548.1812 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 650.2467 -442.938 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 641.9935 -338.0908 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject FLR1 40.0000 00000000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 625.4916 -234.3423 45 35 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 96
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 580 -1175 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 98
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.287338 390 -1663.928 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\podrace_bigwall\objects\rig_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 100
+ShadowOptions 7
+
+AddNullObject Rig_Null
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.5 157.5 -2250 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\pod1\Pod1_body_low_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 103
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ParentObject 103
+ShadowOptions 7
+
+AddNullObject Pod1_low_null
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 617.5 -12.5 0 0 0 1 1 1
+  0 0 0 0 0
+  0 650 -605 0 0 0 1 1 1
+  100 0 0 0 0
+  0.9598808 577.5 -1177.172 0 0 0 1 1 1
+  300 0 0 0 0
+  0 387.5 -1662.5 0 0 0 1 1 1
+  500 0 0 0 0
+  0 152.5 -2247.5 0 0 0 1 1 1
+  700 0 0 0 0
+  0 117.5 -2690 0 0 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\pod2\pod2_body_low_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 106
+ShadowOptions 7
+
+AddNullObject pod2_cockpit_low_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ParentObject 106
+ShadowOptions 7
+
+AddNullObject pod2_low_null
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 617.5 32.5 0 0 0 1 1 1
+  0 0 0 0 0
+  0 647.5 -597.5 0 0 0 1 1 1
+  100 0 0 0 0
+  0 582.5 -1155 0 0 0 1 1 1
+  300 0 0 0 0
+  0 320 -1860 0 0 0 1 1 1
+  500 0 0 0 0
+  0 155 -2247.5 0 0 0 1 1 1
+  700 0 0 0 0
+  0 115 -2647.5 0 0 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Pilot_low_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 110
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\plane_low_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 110
+ShadowOptions 7
+
+LoadObject data\Podrace\Objects\plane\Prop_low_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 180 0 360 1 1 1
+  5 0 0 0 0
+EndBehavior 2
+ParentObject 110
+ShadowOptions 7
+
+AddNullObject Plane_low_null
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  5
+  -2.5 652.5 -600 0 0 0 1 1 1
+  0 0 0 0 0
+  0 575 -1175 0 0 0 1 1 1
+  200 0 0 0 0
+  0 385 -1667.5 0 0 0 1 1 1
+  400 0 0 0 0
+  -2.5 152.5 -2245 0 0 0 1 1 1
+  600 0 0 0 0
+  -2.5 145 -2935 0 0 0 1 1 1
+  800 0 0 0 0
+EndBehavior 2
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\house01_lw5.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  1161.379 0 -2222.035 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject CameraNull
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  2
+  -533.7516 179.907 -1646.879 58.40005 -29.40002 0 1 1 1
+  0 0 0 0 0
+  -64.61624 102.407 -2370.822 39.30002 -28.50001 0 1 1 1
+  800 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\city1\objects\widescreen.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 112
+ShadowOptions 7
+
+AddNullObject NullObject
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 -11.435 0 0 0 0 1 1 1
+  0 1 0 0 0
+  0 -73.39999 0 0 0 0 1 1 1
+  300 0 0 0 0
+EndBehavior 1
+ParentObject 112
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.83349 -5.02321 5.37118 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.83349 -5.02321 5.37118 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.7281 1.75895 3.65629 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.7281 1.75895 3.65629 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  26.29807 7.04852 11.56052 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  26.29807 7.04852 11.56052 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.96325 3.58859 14.71279 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.96325 3.58859 14.71279 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.53054 4.93769 17.62897 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.53054 4.93769 17.62897 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.28704 2.79381 14.71868 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.28704 2.79381 14.71868 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.81921 0.9597 22.31401 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.81921 0.9597 22.31401 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.35958 -2.87106 25.25162 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.35958 -2.87106 25.25162 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.93375 9.82451 23.36215 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.93375 9.82451 23.36215 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -22.60846 0.81033 22.14841 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -22.60846 0.81033 22.14841 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.28002 3.99695 3.35242 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.28002 3.99695 3.35242 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.75042 10.35569 0.42649 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.75042 10.35569 0.42649 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.46507 -0.75168 7.98041 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.46507 -0.75168 7.98041 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.62833 -3.53342 -1.31223 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.62833 -3.53342 -1.31223 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -20.87239 4.83264 -14.97095 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -20.87239 4.83264 -14.97095 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -10.58932 0.2449 -9.63676 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -10.58932 0.2449 -9.63676 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.33654 -7.21421 -18.16275 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.33654 -7.21421 -18.16275 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -6.31381 -3.50866 -21.72852 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -6.31381 -3.50866 -21.72852 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.85372 -1.13401 -23.80837 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.85372 -1.13401 -23.80837 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.36426 5.56144 -13.76488 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.36426 5.56144 -13.76488 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  15.26278 3.57564 -19.10446 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  15.26278 3.57564 -19.10446 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  22.4778 -5.37536 -13.55368 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  22.4778 -5.37536 -13.55368 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.17687 0.27377 -14.66005 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.17687 0.27377 -14.66005 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  21.45714 4.27055 -7.67741 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  21.45714 4.27055 -7.67741 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.42207 70.32881 -3.02439 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.42207 70.32881 -3.02439 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  18.31769 88.65334 5.89696 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  18.31769 88.65334 5.89696 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.53735 82.94115 15.27622 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.53735 82.94115 15.27622 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.15276 86.23463 17.32183 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.15276 86.23463 17.32183 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.88448 87.88446 18.65936 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.88448 87.88446 18.65936 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.6889 75.31787 21.72437 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.6889 75.31787 21.72437 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.67597 75.19379 21.41244 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.67597 75.19379 21.41244 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.00183 69.66498 20.97317 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.00183 69.66498 20.97317 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.60929 65.05295 14.27808 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.60929 65.05295 14.27808 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.54432 77.6797 11.02746 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.54432 77.6797 11.02746 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.39938 77.07228 12.78607 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.39938 77.07228 12.78607 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -21.67716 89.40782 3.44083 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -21.67716 89.40782 3.44083 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.9571 85.10273 -12.57755 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.9571 85.10273 -12.57755 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.35599 73.26076 -9.51177 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.35599 73.26076 -9.51177 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.62945 76.18125 -8.20206 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.62945 76.18125 -8.20206 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -9.07829 78.77342 -7.90815 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -9.07829 78.77342 -7.90815 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.00715 81.37547 -25.23608 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.00715 81.37547 -25.23608 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.27388 78.89205 -19.54163 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.27388 78.89205 -19.54163 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.07776 70.28068 -21.32669 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.07776 70.28068 -21.32669 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.90865 88.63251 -16.99615 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.90865 88.63251 -16.99615 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.51052 96.47707 -20.32812 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.51052 96.47707 -20.32812 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.08301 73.54499 -13.81315 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.08301 73.54499 -13.81315 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.83203 78.95168 -12.58045 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.83203 78.95168 -12.58045 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.91531 72.76849 -6.757 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.91531 72.76849 -6.757 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.61991 60.12557 -8.60141 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.61991 60.12557 -8.60141 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.7742 64.10725 -2.4342 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.7742 64.10725 -2.4342 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.38231 66.01032 9.80658 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.38231 66.01032 9.80658 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.00996 57.84055 16.55006 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.00996 57.84055 16.55006 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.06976 59.67261 17.47401 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.06976 59.67261 17.47401 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.23714 68.42714 33.02507 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.23714 68.42714 33.02507 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.09886 70.21239 11.9724 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.09886 70.21239 11.9724 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.51865 53.46367 21.10619 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.51865 53.46367 21.10619 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -8.73954 63.03605 19.42903 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -8.73954 63.03605 19.42903 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.62406 64.41427 14.37778 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.62406 64.41427 14.37778 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.82415 56.30431 4.38515 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.82415 56.30431 4.38515 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.62814 57.67131 11.60888 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.62814 57.67131 11.60888 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.54116 56.20968 -3.34237 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.54116 56.20968 -3.34237 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -25.28639 63.73995 -3.20602 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -25.28639 63.73995 -3.20602 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.45585 70.67374 -13.8588 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.45585 70.67374 -13.8588 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.2071 55.95603 -10.29516 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.2071 55.95603 -10.29516 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.98198 60.64241 -15.93776 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.98198 60.64241 -15.93776 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -7.84887 50.46046 -16.27032 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -7.84887 50.46046 -16.27032 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.59391 49.63197 -24.69786 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.59391 49.63197 -24.69786 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.16285 59.49149 -15.50351 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.16285 59.49149 -15.50351 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.93559 66.1228 -12.12056 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.93559 66.1228 -12.12056 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.83228 63.66491 -11.01496 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.83228 63.66491 -11.01496 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.5324 57.74995 -19.06973 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.5324 57.74995 -19.06973 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.31363 50.4243 -9.28168 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.31363 50.4243 -9.28168 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  31.88277 29.98922 3.87231 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  31.88277 29.98922 3.87231 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.96492 31.34855 -4.73083 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.96492 31.34855 -4.73083 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  15.12937 33.2457 3.97702 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  15.12937 33.2457 3.97702 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.51856 26.71547 11.61979 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.51856 26.71547 11.61979 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  18.69162 36.44024 15.52104 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  18.69162 36.44024 15.52104 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.76416 25.13256 13.3327 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.76416 25.13256 13.3327 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.56373 27.13428 21.10498 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.56373 27.13428 21.10498 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.36971 30.95127 18.65928 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.36971 30.95127 18.65928 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -9.94066 34.6922 16.92317 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -9.94066 34.6922 16.92317 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.54103 21.437 11.91183 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.54103 21.437 11.91183 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -21.30995 35.39341 13.13758 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -21.30995 35.39341 13.13758 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.71957 19.99355 7.15889 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.71957 19.99355 7.15889 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -28.04547 23.84062 -1.41295 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -28.04547 23.84062 -1.41295 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.17206 32.69041 -7.33702 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.17206 32.69041 -7.33702 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.53424 30.18537 -9.20298 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.53424 30.18537 -9.20298 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.85911 30.57658 -19.87828 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.85911 30.57658 -19.87828 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.71788 28.95975 -11.32194 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.71788 28.95975 -11.32194 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.60949 41.40155 -13.22745 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.60949 41.40155 -13.22745 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.72868 28.03932 -15.15385 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.72868 28.03932 -15.15385 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.22693 23.63359 -14.75792 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.22693 23.63359 -14.75792 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.98922 21.37059 -15.33979 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.98922 21.37059 -15.33979 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.3035 30.60982 -10.93925 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.3035 30.60982 -10.93925 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.8025 31.69268 -10.18578 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.8025 31.69268 -10.18578 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  23.46695 23.50031 -18.12827 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  23.46695 23.50031 -18.12827 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  24.83768 23.48716 3.12105 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  24.83768 23.48716 3.12105 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  16.39064 16.16583 3.03826 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  16.39064 16.16583 3.03826 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  23.65087 20.38276 9.41429 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  23.65087 20.38276 9.41429 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  19.30077 17.9937 14.61595 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  19.30077 17.9937 14.61595 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.39753 16.29018 12.93126 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.39753 16.29018 12.93126 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.44684 21.69996 17.29484 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.44684 21.69996 17.29484 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.02538 9.78435 20.06254 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.02538 9.78435 20.06254 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.67243 12.48686 15.283 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.67243 12.48686 15.283 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -10.52347 10.61317 26.58979 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -10.52347 10.61317 26.58979 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -16.44839 21.97061 17.19034 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -16.44839 21.97061 17.19034 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.48773 17.28348 1.27643 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.48773 17.28348 1.27643 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.62025 13.5082 2.93421 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.62025 13.5082 2.93421 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.56001 14.1991 -3.38238 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.56001 14.1991 -3.38238 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.42717 11.61353 -4.73969 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.42717 11.61353 -4.73969 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.1265 19.80974 -7.23316 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.1265 19.80974 -7.23316 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.03849 18.3448 -22.308 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.03849 18.3448 -22.308 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.85975 13.61244 -8.98454 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.85975 13.61244 -8.98454 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -9.52175 10.23969 -16.14575 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -9.52175 10.23969 -16.14575 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.22571 6.62413 -15.94279 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.22571 6.62413 -15.94279 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.2766 14.86112 -17.13362 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.2766 14.86112 -17.13362 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.78791 11.09135 -16.16778 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.78791 11.09135 -16.16778 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.48115 10.76717 -16.77958 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.48115 10.76717 -16.77958 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.44927 15.96564 -13.23442 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.44927 15.96564 -13.23442 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  23.35926 17.13435 -9.07314 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  23.35926 17.13435 -9.07314 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  16.59439 45.30696 -13.82385 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  16.59439 45.30696 -13.82385 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.13638 36.79703 -5.86114 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.13638 36.79703 -5.86114 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.95262 47.91426 15.24791 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.95262 47.91426 15.24791 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.38295 49.6233 14.23109 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.38295 49.6233 14.23109 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.73302 41.15743 14.69849 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.73302 41.15743 14.69849 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.01174 48.87846 15.01035 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.01174 48.87846 15.01035 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.11288 40.4013 20.80174 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.11288 40.4013 20.80174 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.10282 51.50859 14.44316 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.10282 51.50859 14.44316 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.38494 50.58463 13.17146 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.38494 50.58463 13.17146 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.69582 52.09755 12.51376 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15.69582 52.09755 12.51376 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -16.99347 48.85436 6.32011 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -16.99347 48.85436 6.32011 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.39062 42.87594 1.16773 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.39062 42.87594 1.16773 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -23.01323 46.20613 -2.06054 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -23.01323 46.20613 -2.06054 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.14805 40.75867 -6.01549 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.14805 40.75867 -6.01549 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.17931 44.18451 -9.36265 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.17931 44.18451 -9.36265 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.78409 47.3336 -10.91106 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.78409 47.3336 -10.91106 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.41806 44.53112 -17.8725 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -11.41806 44.53112 -17.8725 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.31432 62.70703 -18.34384 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.31432 62.70703 -18.34384 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.33188 44.2516 -17.38095 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.33188 44.2516 -17.38095 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.89179 42.25848 -17.77881 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.89179 42.25848 -17.77881 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.13742 43.07684 -12.09611 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.13742 43.07684 -12.09611 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  18.8366 48.07509 -7.20854 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  18.8366 48.07509 -7.20854 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  20.16427 49.45154 -3.95432 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  20.16427 49.45154 -3.95432 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  16.77743 43.95096 -1.24334 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  16.77743 43.95096 -1.24334 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.11542 65.39734 8.88299 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  17.11542 65.39734 8.88299 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.71861 76.72221 -3.14668 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.71861 76.72221 -3.14668 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.75641 65.11866 7.34356 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  13.75641 65.11866 7.34356 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  15.32172 68.45245 18.03813 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  15.32172 68.45245 18.03813 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.79089 69.05521 19.48129 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.79089 69.05521 19.48129 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.5815 82.51533 16.64092 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.5815 82.51533 16.64092 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.06469 80.39171 22.70158 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.06469 80.39171 22.70158 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.60662 56.71823 15.28281 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.60662 56.71823 15.28281 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.41354 71.87924 7.4907 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -12.41354 71.87924 7.4907 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -21.97501 70.19669 20.02481 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -21.97501 70.19669 20.02481 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.57544 68.60602 17.51633 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.57544 68.60602 17.51633 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.00291 67.0946 6.4136 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -14.00291 67.0946 6.4136 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.33132 74.9491 2.60904 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.33132 74.9491 2.60904 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.93883 58.19989 -2.92472 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -18.93883 58.19989 -2.92472 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -7.02108 64.10241 -10.58191 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -7.02108 64.10241 -10.58191 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.83136 57.5077 -6.67289 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -17.83136 57.5077 -6.67289 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.59844 59.64154 -7.38239 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -13.59844 59.64154 -7.38239 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -6.26119 76.70683 -16.81598 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -6.26119 76.70683 -16.81598 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.41293 73.54572 -16.94259 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.41293 73.54572 -16.94259 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.41594 68.98727 -23.96833 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.41594 68.98727 -23.96833 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.38446 71.9166 -15.01539 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.38446 71.9166 -15.01539 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.25985 68.04772 -8.53169 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.25985 68.04772 -8.53169 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  20.08068 53.03724 -13.19242 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  20.08068 53.03724 -13.19242 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.30305 74.70183 -5.84417 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AddNullObject FLR2 02.0000 05.0000 03.0000 data|city1|maps|rain.jpg
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.30305 74.70183 -5.84417 0 0 0 1 1 1
+  0 1 0 0 0
+EndBehavior 1
+ParentObject 114
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -2 2 -2 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 96
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 98
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName FLR1 40.0000 data|podrace_bigwall|maps|flare22_64x64.jpg
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  0 -10 0 45 35 0 1 1 1
+  0 0 0 0 0
+  0 -10 0 45 35 0 1 1 1
+  1000 0 0 0 0
+EndBehavior 1
+ParentObject 100
+LightColor 248 201 202
+LgtIntensity 1.000000
+LightType 1
+LensFlare 1
+FlareIntensity 1.000000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 112
+ZoomFactor 1.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint -533.009521 180.397903 -1646.422485
+ViewDirection -6.853908 -0.317650 0.000000
+ViewZoomFactor 0.020553
+GridNumber 100
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

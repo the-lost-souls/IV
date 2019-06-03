@@ -1,0 +1,37 @@
+City:
+- Lag et ekstra klipp i starten. Del opp cut1 i to, og lag et med stor fart. 
+- Stapp inn morphtargets på alle nærklipp, slik at piloten bøyer seg fra side til side. 
+- Morphtargets for skjerf. Må dele opp fly i flere objekter.
+- Putt inn camerapods i alle klipp
+- Texturemappe bygninger
+x - bytte ut garasjebygningen på toppen
+- himmeltexture
+- forstørre skydome
+
+Bigwall:
+- Endre baner på skip slik at det blir masse knuffing. Slemmefolka. 
+- Texturemappe laserdingser 
+- Endre animering av alle klipp. Bør ha no' mer slemmeting
+
+Canyon:
+- slenge inn morphtargets for skjerf i alle klipp
+- cut5, morphtarget for å titte opp og bak
+- cut7, flytt vekk camerapod slik at den ikke fyller hele fokkings skjermen
+- cut7, sette inn morphtarget for å se opp på det andre flyet
+- haler på de to andre pod'ene
+- bytt ut lavpoly med høypoly fly på de som trengs. 
+- morphtargets for skjerf
+- putte inn et klipp der de kjører inn i veggen
+
+Pods:
+- Lag nye scener for importering av lav og høypolygons pods. Del opp flyet
+  i flere modeller, og stapp inn morphtargets for skjerf. Husk hale-flares. Lenger enn de er nå. 100 frames. 
+- Bytt ut pod2 med den techpod. 
+- Texturemap alle pods. Ihvertfall pynte litt på dem. 
+
+Diverse:
+- Texturemappe rig-dingsen. 
+- lag datafil for alt (til slutt)
+- fiks skjerf for en del av gutta, dvs. flipp en del polys. 
+- Fiks timerfish sånn at den bruker FMOD!!!
+- Sett opp farta på det forbanna skjerfet. 

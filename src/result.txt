@@ -1,0 +1,978 @@
+PAKIT - v1.00 (001) Cyberfish/TLS 1998
+
+Running PAK_Create( racer.tls, kukur )
+Running PAK_AddFile( PAK, data\canyon\scenes\cut1.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+Running PAK_AddFile( PAK, DATA\CANYON\MAPS\CANYONWALL2.JPG )
+Running PAK_AddFile( PAK, DATA\PODRACE_BIGWALL\MAPS\FLARE22_64X64.JPG )
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+Running PAK_AddFile( PAK, DATA\PODRACE_BIGWALL\MAPS\FLARE19_64X64.JPG )
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+Running PAK_AddFile( PAK, DATA\PODRACE\MAPS\PLANE_RED.JPG )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\plane_low_lw5.VEC )
+Running PAK_AddFile( PAK, DATA\PODRACE\MAPS\PLANE_WINDSHIELD.JPG )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+Running PAK_AddFile( PAK, DATA\PODRACE_BIGWALL\MAPS\STREAK.JPG )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\scarf_normal_low_mt1.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_low_mt2.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_low.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_body_low.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\Pod2_body_low_lw5.VEC )
+Running PAK_AddFile( PAK, data\canyon\scenes\cut2.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\plane_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\plane_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\scarf_normal_low_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\scarf_normal_low_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_low_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_low_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_body_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_body_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\Pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\Pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\canyon\scenes\cut3.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_body_high.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera_high.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring_high.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+Running PAK_AddFile( PAK, data\canyon\scenes\cut4.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Plane_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\canyon\scenes\cut5.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Plane_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_low_left_lw5.VEC )
+Running PAK_AddFile( PAK, data\canyon\scenes\cut6.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_high_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_high_lw5.VEC )
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Plane_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\canyon\scenes\cut7.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Plane_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\canyon\scenes\cut8.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Plane_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\canyon\scenes\cut9.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Plane_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_low_right_lw5.VEC )
+Running PAK_AddFile( PAK, data\canyon\scenes\cut10.scn )
+Running PAK_AddFile( PAK, data\canyon\objects\Canyon_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\canyon\objects\Canyon_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\city1\objects\widescreen.VEC )
+PAKIT_ReadList: Error adding file: data\city1\objects\widescreen.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod2\pod2_body_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\rig_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\podrace_bigwall\objects\rig_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\camerapod1_body.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\camerapod1_body.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_camera.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_camera.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\Camerapod1_ring.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\Camerapod1_ring.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_left_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Hatch_low_right_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Plane_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Plane_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Prop_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Prop_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_back_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\rocket_base_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\rocket_base_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Rocket_front_low_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt1.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high_mt2.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Scarf_normal_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Scarf_normal_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\pilot_normal_low.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\pilot_normal_low.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\plane\Pilot_body_high.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\plane\Pilot_body_high.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\scenes\cut1.scn )
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+Running PAK_AddFile( PAK, DATA\OVERLAY5\MAPS\MAP1.JPG )
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\overlay5\objects\plate_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\overlay5\objects\plate_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\podrace_bigwall\scenes\cut1.scn )
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\beamer_lw5.VEC )
+Running PAK_AddFile( PAK, data\podrace_bigwall\objects\bigwall_lw5.VEC )
+Running PAK_AddFile( PAK, F:\PROJECTS\ANYWHERE\DATA\PODRACE_BIGWALL\MAPS\BACKSIDE3.JPG )
+Running PAK_AddFile( PAK, F:\PROJECTS\ANYWHERE\DATA\PODRACE_BIGWALL\MAPS\BACKSIDE4.JPG )
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_body_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_body_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_AddFile( PAK, data\Podrace\Objects\pod1\Pod1_cockpit_high_lw5.VEC )
+PAKIT_ReadList: Error adding file: data\Podrace\Objects\pod1\Pod1_cockpit_high_lw5.VEC
+                (File may exist in the pak already.)
+Running PAK_Info
+    FileName        : RACER.TLS
+    PAK containing...
+      98.28% DATA\CANYON\SCENES\CUT1.SCN
+      60.66% DATA\CANYON\OBJECTS\CANYON_LW5.VEC
+      3.41% DATA\CANYON\MAPS\CANYONWALL2.JPG
+      20.38% DATA\PODRACE_BIGWALL\MAPS\FLARE22_64X64.JPG
+      96.23% DATA\CITY1\OBJECTS\WIDESCREEN.VEC
+      89.39% DATA\PODRACE_BIGWALL\OBJECTS\RIG_LW5.VEC
+      87.05% DATA\PODRACE\OBJECTS\CAMERAPOD1_BODY.VEC
+      90.39% DATA\PODRACE\OBJECTS\CAMERAPOD1_CAMERA.VEC
+      91.99% DATA\PODRACE\OBJECTS\CAMERAPOD1_RING.VEC
+      15.00% DATA\PODRACE_BIGWALL\MAPS\FLARE19_64X64.JPG
+      92.30% DATA\PODRACE\OBJECTS\PLANE\HATCH_LOW_LEFT_LW5.VEC
+      14.32% DATA\PODRACE\MAPS\PLANE_RED.JPG
+      92.16% DATA\PODRACE\OBJECTS\PLANE\HATCH_LOW_RIGHT_LW5.VEC
+      84.03% DATA\PODRACE\OBJECTS\PLANE\PLANE_LOW_LW5.VEC
+      22.72% DATA\PODRACE\MAPS\PLANE_WINDSHIELD.JPG
+      87.60% DATA\PODRACE\OBJECTS\PLANE\PROP_LOW_LW5.VEC
+      87.44% DATA\PODRACE\OBJECTS\PLANE\ROCKET_BACK_LOW_LW5.VEC
+      86.61% DATA\PODRACE\OBJECTS\PLANE\ROCKET_BASE_LOW_LW5.VEC
+      88.97% DATA\PODRACE\OBJECTS\PLANE\ROCKET_FRONT_LOW_LW5.VEC
+      20.38% DATA\PODRACE_BIGWALL\MAPS\STREAK.JPG
+      84.50% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_LOW_MT1.VEC
+      84.51% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_LOW_MT2.VEC
+      84.49% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_LOW.VEC
+      84.29% DATA\PODRACE\OBJECTS\PLANE\PILOT_NORMAL_LOW.VEC
+      87.00% DATA\PODRACE\OBJECTS\PLANE\PILOT_BODY_LOW.VEC
+      85.04% DATA\PODRACE\OBJECTS\POD1\POD1_BODY_LOW_LW5.VEC
+      90.86% DATA\PODRACE\OBJECTS\POD1\POD1_COCKPIT_LOW_LW5.VEC
+      86.19% DATA\PODRACE\OBJECTS\POD2\POD2_BODY_LOW_LW5.VEC
+      98.21% DATA\CANYON\SCENES\CUT2.SCN
+      98.22% DATA\CANYON\SCENES\CUT3.SCN
+      82.00% DATA\PODRACE\OBJECTS\CAMERAPOD1_BODY_HIGH.VEC
+      85.53% DATA\PODRACE\OBJECTS\CAMERAPOD1_CAMERA_HIGH.VEC
+      88.16% DATA\PODRACE\OBJECTS\CAMERAPOD1_RING_HIGH.VEC
+      81.12% DATA\PODRACE\OBJECTS\PLANE\PLANE_HIGH_LW5.VEC
+      79.13% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_HIGH_MT1.VEC
+      79.11% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_HIGH_MT2.VEC
+      79.10% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_HIGH.VEC
+      83.67% DATA\PODRACE\OBJECTS\PLANE\PILOT_BODY_HIGH.VEC
+      98.17% DATA\CANYON\SCENES\CUT4.SCN
+      98.02% DATA\CANYON\SCENES\CUT5.SCN
+      81.83% DATA\PODRACE\OBJECTS\PLANE\PILOT_LOW_LEFT_LW5.VEC
+      98.07% DATA\CANYON\SCENES\CUT6.SCN
+      80.69% DATA\PODRACE\OBJECTS\POD1\POD1_BODY_HIGH_LW5.VEC
+      85.81% DATA\PODRACE\OBJECTS\POD1\POD1_COCKPIT_HIGH_LW5.VEC
+      98.01% DATA\CANYON\SCENES\CUT7.SCN
+      98.00% DATA\CANYON\SCENES\CUT8.SCN
+      98.02% DATA\CANYON\SCENES\CUT9.SCN
+      81.82% DATA\PODRACE\OBJECTS\PLANE\PILOT_LOW_RIGHT_LW5.VEC
+      98.13% DATA\CANYON\SCENES\CUT10.SCN
+      96.52% DATA\OVERLAY5\SCENES\CUT1.SCN
+      95.77% DATA\OVERLAY5\OBJECTS\PLATE_LW5.VEC
+      11.36% DATA\OVERLAY5\MAPS\MAP1.JPG
+      91.72% DATA\PODRACE_BIGWALL\SCENES\CUT1.SCN
+      89.99% DATA\PODRACE_BIGWALL\OBJECTS\BEAMER_LW5.VEC
+      83.30% DATA\PODRACE_BIGWALL\OBJECTS\BIGWALL_LW5.VEC
+      1.20% F:\PROJECTS\ANYWHERE\DATA\PODRACE_BIGWALL\MAPS\BACKSIDE3.JPG
+      1.61% F:\PROJECTS\ANYWHERE\DATA\PODRACE_BIGWALL\MAPS\BACKSIDE4.JPG
+    Number of files : 57
+
+    Uncompressed total size: 4670935
+    Compressed total size: 943620
+    Average compression ratio: 0.202020
+
+Running PAK_Info
+    FileName        : RACER.TLS
+    PAK containing...
+      98.28% DATA\CANYON\SCENES\CUT1.SCN
+      60.66% DATA\CANYON\OBJECTS\CANYON_LW5.VEC
+      3.41% DATA\CANYON\MAPS\CANYONWALL2.JPG
+      20.38% DATA\PODRACE_BIGWALL\MAPS\FLARE22_64X64.JPG
+      96.23% DATA\CITY1\OBJECTS\WIDESCREEN.VEC
+      89.39% DATA\PODRACE_BIGWALL\OBJECTS\RIG_LW5.VEC
+      87.05% DATA\PODRACE\OBJECTS\CAMERAPOD1_BODY.VEC
+      90.39% DATA\PODRACE\OBJECTS\CAMERAPOD1_CAMERA.VEC
+      91.99% DATA\PODRACE\OBJECTS\CAMERAPOD1_RING.VEC
+      15.00% DATA\PODRACE_BIGWALL\MAPS\FLARE19_64X64.JPG
+      92.30% DATA\PODRACE\OBJECTS\PLANE\HATCH_LOW_LEFT_LW5.VEC
+      14.32% DATA\PODRACE\MAPS\PLANE_RED.JPG
+      92.16% DATA\PODRACE\OBJECTS\PLANE\HATCH_LOW_RIGHT_LW5.VEC
+      84.03% DATA\PODRACE\OBJECTS\PLANE\PLANE_LOW_LW5.VEC
+      22.72% DATA\PODRACE\MAPS\PLANE_WINDSHIELD.JPG
+      87.60% DATA\PODRACE\OBJECTS\PLANE\PROP_LOW_LW5.VEC
+      87.44% DATA\PODRACE\OBJECTS\PLANE\ROCKET_BACK_LOW_LW5.VEC
+      86.61% DATA\PODRACE\OBJECTS\PLANE\ROCKET_BASE_LOW_LW5.VEC
+      88.97% DATA\PODRACE\OBJECTS\PLANE\ROCKET_FRONT_LOW_LW5.VEC
+      20.38% DATA\PODRACE_BIGWALL\MAPS\STREAK.JPG
+      84.50% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_LOW_MT1.VEC
+      84.51% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_LOW_MT2.VEC
+      84.49% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_LOW.VEC
+      84.29% DATA\PODRACE\OBJECTS\PLANE\PILOT_NORMAL_LOW.VEC
+      87.00% DATA\PODRACE\OBJECTS\PLANE\PILOT_BODY_LOW.VEC
+      85.04% DATA\PODRACE\OBJECTS\POD1\POD1_BODY_LOW_LW5.VEC
+      90.86% DATA\PODRACE\OBJECTS\POD1\POD1_COCKPIT_LOW_LW5.VEC
+      86.19% DATA\PODRACE\OBJECTS\POD2\POD2_BODY_LOW_LW5.VEC
+      98.21% DATA\CANYON\SCENES\CUT2.SCN
+      98.22% DATA\CANYON\SCENES\CUT3.SCN
+      82.00% DATA\PODRACE\OBJECTS\CAMERAPOD1_BODY_HIGH.VEC
+      85.53% DATA\PODRACE\OBJECTS\CAMERAPOD1_CAMERA_HIGH.VEC
+      88.16% DATA\PODRACE\OBJECTS\CAMERAPOD1_RING_HIGH.VEC
+      81.12% DATA\PODRACE\OBJECTS\PLANE\PLANE_HIGH_LW5.VEC
+      79.13% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_HIGH_MT1.VEC
+      79.11% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_HIGH_MT2.VEC
+      79.10% DATA\PODRACE\OBJECTS\PLANE\SCARF_NORMAL_HIGH.VEC
+      83.67% DATA\PODRACE\OBJECTS\PLANE\PILOT_BODY_HIGH.VEC
+      98.17% DATA\CANYON\SCENES\CUT4.SCN
+      98.02% DATA\CANYON\SCENES\CUT5.SCN
+      81.83% DATA\PODRACE\OBJECTS\PLANE\PILOT_LOW_LEFT_LW5.VEC
+      98.07% DATA\CANYON\SCENES\CUT6.SCN
+      80.69% DATA\PODRACE\OBJECTS\POD1\POD1_BODY_HIGH_LW5.VEC
+      85.81% DATA\PODRACE\OBJECTS\POD1\POD1_COCKPIT_HIGH_LW5.VEC
+      98.01% DATA\CANYON\SCENES\CUT7.SCN
+      98.00% DATA\CANYON\SCENES\CUT8.SCN
+      98.02% DATA\CANYON\SCENES\CUT9.SCN
+      81.82% DATA\PODRACE\OBJECTS\PLANE\PILOT_LOW_RIGHT_LW5.VEC
+      98.13% DATA\CANYON\SCENES\CUT10.SCN
+      96.52% DATA\OVERLAY5\SCENES\CUT1.SCN
+      95.77% DATA\OVERLAY5\OBJECTS\PLATE_LW5.VEC
+      11.36% DATA\OVERLAY5\MAPS\MAP1.JPG
+      91.72% DATA\PODRACE_BIGWALL\SCENES\CUT1.SCN
+      89.99% DATA\PODRACE_BIGWALL\OBJECTS\BEAMER_LW5.VEC
+      83.30% DATA\PODRACE_BIGWALL\OBJECTS\BIGWALL_LW5.VEC
+      1.20% F:\PROJECTS\ANYWHERE\DATA\PODRACE_BIGWALL\MAPS\BACKSIDE3.JPG
+      1.61% F:\PROJECTS\ANYWHERE\DATA\PODRACE_BIGWALL\MAPS\BACKSIDE4.JPG
+    Number of files : 57
+
+    Uncompressed total size: 4670935
+    Compressed total size: 943620
+    Average compression ratio: 0.202020
+

@@ -1,0 +1,209 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 60
+PreviewFrameStep 1
+FramesPerSecond 3.000000
+
+LoadObject data\smoke\objects\Smoke_lw5_1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 -129.9999 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 -227.9999 0 0 1 1 1
+  54 0 0 0 0
+  0 0 0 -118.0001 0 0 1 1 1
+  76 0 0 0 0
+  0 0 0 -307.9998 0 0 1 1 1
+  112 0 0 0 0
+  0 0 0 -360 0 0 1 1 1
+  120 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 2
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_mt1_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject data\smoke\objects\smoke_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 80 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 192.0001 0 0 1 1 1
+  26 0 0 0 0
+  0 0 0 215.9997 0 0 1 1 1
+  52 0 0 0 0
+  0 0 0 293.9998 0 0 1 1 1
+  78 0 0 0 0
+  0 0 0 387.9998 0 0 1 1 1
+  96 0 0 0 0
+  0 0 0 440 0 0 1 1 1
+  120 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 2
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\smoke_lw5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 510 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 150 0 0 1 1 1
+  120 0 0 0 0
+EndBehavior 2
+Metamorph 1.000000
+MorphTarget 2
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject data\smoke\objects\Smoke_lw5_3.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -29 2 -32.25 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 66 69 198
+LgtIntensity (envelope)
+  1
+  4
+  1
+  0 0 0 0 0
+  1.03
+  15 0 0 0 0
+  0.7480004
+  36 0 0 0 0
+  1
+  60 0 0 0 0
+EndBehavior 2
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -29 2 -32.25 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 241 247 45
+LgtIntensity (envelope)
+  1
+  4
+  1
+  0 0 0 0 0
+  0.572
+  15 0 0 0 0
+  0.9760001
+  36 0 0 0 0
+  1
+  60 0 0 0 0
+EndBehavior 2
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  4
+  7.253139 59.5 -35.00512 0.3 29.40003 0 1 1 1
+  0 0 0 0 0
+  4.285903 36.83333 -28.73951 0.3 29.40003 0 1 1 1
+  20 0 0 0 0
+  5.453424 14.16667 -44.49582 -1.9 27.90002 0 1 1 1
+  40 0 0 0 0
+  7.253139 -15.25 -35.00512 -8.599998 19.50001 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+ZoomFactor 3.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 4.000000
+GridNumber 40
+GridSize 50.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

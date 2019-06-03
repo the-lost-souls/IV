@@ -1,0 +1,171 @@
+0,4 sek mellom hvert slag. 
+01,6 
+06,4
+12,8
+25,6 
+
+
+00:00:00 	baaaa-baaaaa-piiiiip. 
+		intro med credits. på ping kjøres løpelys innover. 
+
+
+00:27:00	tittelskjerm fader inn (på den basslyden)
+
+00:37:20	fader inn startscenen for podrace. Kjører litt kamera. 
+		blinkende lys. Sånn doomish-lys-greier. fader ut til svart
+		før overgangen til neste scene (tidsbrudd). Startscenen
+		kan f.eks. være fra et flygende digert skip...? Kommer ut
+		gjennom en sånn bred åpning i sida? Etabler de to andre 
+		skipene som slemme! !!!Viktig!!! Slags dytting, sperring eller noe?
+		Klipp:	
+			- helten som titter over på de to andre
+			- oversiktsbilde med alle tre podene og andre 
+			  småpod'er som flyr rundt
+
+
+00:37:20	cut1, panner sidelengs over alle skipene. Ender opp med å 
+		få helten i høyre billedkant idet han dreier hodet over for å
+		se på det andre skipet. Helteflyet er i midten. På slutten av 
+		klippet kommer en camerapod ned ovenfra og filmer inn i ansiktet. 
+
+		cut2, ser fra camerapoden
+
+		cut3, ser fra bak flyet idet dørene åpnes... 
+
+
+00:51:20	trommene starter. hvitflash idet podene fyker ut av 
+		start-huset. 
+		følger dem i noen klipp gjennom canyon-saken. Sleng
+		inn noen digre skip med karakteristisk form. Kan hjelpe
+		til med å sette størrelsen senere. fiks overlay-bilder med
+		rendret wireframe fra lightwave. Fargerik og harmonisk 
+		scene. Layered fog-greier nedover i canyon'en f.eks.?
+		Himmel med samme farge som sollyset. Litt sånn rosa-skjær 
+		kanskje?
+
+		helten ser inn i et av kameraene!
+
+---------------------------------- CANYON ----------------------------------
+00:51:20	cut1, f0-220: skipene flyr ut fra startkåken
+
+00:53:40	cut2, f100-500: følgeklipp ovenfra av alle tre
+
+00:57:40	cut3, f0-200: viser kamerapod som kommer nært flyet
+
+00:59:40	cut4, f0-450: subjektivt fra kamerapod
+		Krasjet skjer på 01:02:90
+
+01:03:90	cut5, f250-660	: ser helten forfra idet han titter bak på det
+		han traff. Krasjet skjer på 01:04:90
+
+01:08:00	cut6, f220-620: følgeklipp bakfra. Slemmisen kommer nærmere. 
+
+01:12:00	cut7, f420-590
+		nært klipp der han ser på slemmisen som kommer over han. 
+
+01:13:70	cut8, f530-930
+		blir bunket utenfor et sjekkpunkt. 
+		Krasj på 01:15:40
+
+01:16:80	cut9, f240-890: skrensing
+
+
+01:23:40	cut10, f100-520
+
+		fader over i no' dill fra racing-klippene. Bør kanskje 
+		være no' blink med musikken for å holde driver oppe. 
+
+--------------------------------- OVERLAY5 -------------------------------
+01:27:60	cut1, 
+
+--------------------------------- KANAL-GREIE -------------------------------
+
+01:37:40	cut1, f0-500: fader tilbake fra 2d-dill, utenfor den store veggen, ser at skipene flyr inn dit
+		helten ligger litt bak. 
+
+01:42:40	cut2, f100-400: passeringsklipp innenfor inngangen til veggen
+		helten ligger fortsatt litt bak. 
+
+01:45:40	cut3, f300-900: følgeklipp, nært bak pilot
+		ser at han prøver å komme seg forbi men de to stenger veien. 
+
+01:51:40	cut4, f300-900: følgeklipp lenger unna, fader over i påfølgende 2d-dill
+		han sniker seg i mellom på høykant og de to andre dunker i hverandre
+
+------------------------------------------ OVERLAY5 -------------------------------
+
+01:57:40	cut1, skrot
+
+------------------------------------------ BYEN -------------------------------
+	
+02:04:00    cut1, f200-700: kommer ut den store veggen
+
+02:08:00	cut1b, ovenfra, skipene fyker ut av veggen på slaget
+
+02:11:00	cut2, f100-400: følgeklipp? viser at de to andre er ganske langt bak. 
+
+02:14:00	cut3, f100-400: fra rett bak helten. Viser at veggen kommer rett i mot. 
+
+02:17:00	cut4, f0-400: nært, helten ser panisk til begge sider for å lete etter 
+		en vei videre (kanskje subjektiv vinkel...?)
+
+02:22:00	cut5, f100-400: skrenseklipp mot veggen
+
+02:25:00	cut6, f0-500: De to sluskene fiser forbi. 
+
+02:30:00 	cut8, f00-360: kjører kamera rolig rundt garasjebygning. Ser de to sluskeskipene
+		kjøre opp veggen og snike seg inn i garasjen. 
+
+
+--------------------------------- HÅND-SØYLE-TING -------------------------------
+
+02:33:60 	bang. stille-del. garasjen med søyler og hender. dyster 
+		lys-setting. Lag sånn midt-stripe med flares. Svake først. 
+		Deretter når helten kommer blir alt mye lysere og det blir farger
+		langs veggene. Og kjør lys løpelys på PING'ene. 
+
+02:33:60	cut1, f0-900: rolig panning sidelengs. De to skipene flyr forbi på ca 02:36:00. Den 
+		første hånda kommer ut på slutten av klippet. fade ut. 
+
+02:42:60	cut2, f0-800: fade inn. flere hender. 
+
+02:50:60	cut3, f0-900: vise øyet.
+
+02:59:60 	cut3b, f0-900: begynner med litt rolig doirty-doirty. kamera panner mot
+		den plassen de to andre sluskene kom fra. 
+
+03:08:60 	cut4, f400-700: Racing i garasjen 
+
+03:11:60	cut5, f0-250: ut av garasjen, fyker ut
+
+03:14:10	cut6, f0-300: piloten titter ned på dashbordet
+
+03:17:10	cut7, f0-200: ristehånd
+
+03:19:10	cut8, f250-400: ser ned igjen
+
+03:20:60	cut9, f250-400: ristehånd
+
+03:22:10	cut10, f250-780: raketten
+
+03:27:30	cut11, f0-370: zoomer inn på helten
+
+
+------------------------------------- MÅLOMRÅDET -------------------------------
+
+03:31:20	cut1, f100-400, raketten går av. 
+
+03:34:20	cut2, f000-150, nærbilde forfra. hodet blir trykket bakover. 
+
+03:35:70	cut5, f100-400, ser de to andre skipene 
+
+03:38:70	cut3, f100-400, vingene rister mer og mer
+
+03:41:70	cut3, f060-460, vingene ramler av 
+
+03:46:40	cut6, f200-600, oversikt over målområdet
+
+03:48:40	cut7, 
+
+03:53:80	cut8, 
+
